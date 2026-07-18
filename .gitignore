@@ -1,0 +1,13 @@
+# Dependencias
+node_modules/
+
+# Firebase
+.firebase/
+firebase-debug.log
+firebase-debug.*.log
+.runtimeconfig.json
+
+# Variables de entorno y credenciales (¡NUNCA subir esto!)
+.env
+.env.local
+*serviceAccount*.json
