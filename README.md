@@ -1,12 +1,15 @@
 # Proyecto1-RIA
 
-Proyecto del curso de Responsible AI — Universidad del Valle de Guatemala.
+Proyecto del curso de Responsible AI 
 
 ## Integrantes
-- Diego Linares (DiegoLinares11)
+- Diego Linares 221256
+- Diederich Solis
+- Christian Echeverria
+- Andy Fuentes
 
 ## Stack
 - Firebase / Google Cloud Platform (GCP)
 
 ## Estado
-🚧 En desarrollo.
+
