@@ -18,5 +18,8 @@
         "test-emulator-integration.cjs"
       ]
     }
-  ]
+  ],
+  "firestore": {
+    "rules": "firestore.rules"
+  }
 }
