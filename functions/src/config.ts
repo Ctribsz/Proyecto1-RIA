@@ -1,4 +1,4 @@
-import { defineString } from "firebase-functions/params";
+import { defineSecret, defineString } from "firebase-functions/params";
 
 export const allowedIps = defineString("ALLOWED_IPS", {
   description: "IPs públicas autorizadas, separadas por comas.",
@@ -9,5 +9,6 @@ export const allowedIps = defineString("ALLOWED_IPS", {
     },
   },
 });
+export const googlePlacesApiKey = defineSecret("GOOGLE_PLACES_API_KEY");
 
 export const functionRegion = "us-central1";
