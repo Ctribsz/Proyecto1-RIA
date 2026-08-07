@@ -22,6 +22,16 @@ const socialHosts = [
   "twitter.com",
 ];
 
+const medicalPlaceTypes = new Set([
+  "doctor",
+  "general_hospital",
+  "health",
+  "hospital",
+  "medical_center",
+  "medical_clinic",
+  "skin_care_clinic",
+]);
+
 interface GooglePlace {
   id?: string;
   displayName?: {
@@ -74,6 +84,39 @@ export function sanitizeWebsite(website: string | undefined): string {
   }
 }
 
+export function extractAddressZone(address: string): string | undefined {
+  const match = address.match(/(?:\bzona\s*|\b010)(\d{1,2})\b/i);
+  if (!match?.[1]) {
+    return undefined;
+  }
+
+  const zone = Number(match[1]);
+  return Number.isInteger(zone) && zone >= 1 && zone <= 25
+    ? String(zone)
+    : undefined;
+}
+
+export function isInsideGuatemalaCity(
+  location: GooglePlace["location"],
+): boolean {
+  const latitude = location?.latitude;
+  const longitude = location?.longitude;
+  if (typeof latitude !== "number" || typeof longitude !== "number") {
+    return false;
+  }
+
+  return (
+    latitude >= guatemalaCityBounds.low.latitude &&
+    latitude <= guatemalaCityBounds.high.latitude &&
+    longitude >= guatemalaCityBounds.low.longitude &&
+    longitude <= guatemalaCityBounds.high.longitude
+  );
+}
+
+export function hasMedicalPlaceType(types: string[] | undefined): boolean {
+  return types?.some((type) => medicalPlaceTypes.has(type)) ?? false;
+}
+
 export async function searchPlaces(
   keyword: string,
   zone: string,
@@ -118,6 +161,16 @@ export async function searchPlaces(
     const name = place.displayName?.text?.trim();
     const address = place.formattedAddress?.trim() ?? "";
     if (!placeId || !name) {
+      continue;
+    }
+    if (!isInsideGuatemalaCity(place.location)) {
+      continue;
+    }
+    if (!hasMedicalPlaceType(place.types)) {
+      continue;
+    }
+    const addressZone = extractAddressZone(address);
+    if (addressZone && addressZone !== zone) {
       continue;
     }
 
