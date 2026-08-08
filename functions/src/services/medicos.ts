@@ -41,6 +41,32 @@ export async function saveDoctors(doctors: MedicoFirestore[]): Promise<void> {
   await batch.commit();
 }
 
+export async function reconcileSearchResults(
+  keywordUsed: string,
+  doctors: MedicoFirestore[],
+): Promise<number> {
+  const database = getFirestore();
+  const currentIds = new Set(doctors.map((doctor) => doctor.place_id));
+  const previousResults = await database
+    .collection(collectionName)
+    .where("keyword_usado", "==", keywordUsed)
+    .get();
+  const staleDocuments = previousResults.docs.filter(
+    (document) => !currentIds.has(document.id),
+  );
+
+  for (let offset = 0; offset < staleDocuments.length; offset += 500) {
+    const batch = database.batch();
+    for (const document of staleDocuments.slice(offset, offset + 500)) {
+      batch.delete(document.ref);
+    }
+    await batch.commit();
+  }
+
+  await saveDoctors(doctors);
+  return staleDocuments.length;
+}
+
 function stringValue(value: unknown): string {
   return typeof value === "string" ? value : "";
 }
