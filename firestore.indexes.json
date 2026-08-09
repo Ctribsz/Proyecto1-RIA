@@ -1,0 +1,51 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "medicos",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "especialidad_busqueda",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "nombre_busqueda",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "medicos",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "zona_busqueda",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "nombre_busqueda",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "medicos",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "especialidad_busqueda",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "zona_busqueda",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "nombre_busqueda",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}
