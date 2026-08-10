@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta
+      name="description"
+      content="Directorio académico de médicos especialistas en Ciudad de Guatemala."
+    >
+    <title>Directorio de Médicos Especialistas</title>
+    <link rel="stylesheet" href="/styles.css">
+    <script src="/app.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#contenido">Ir al contenido</a>
+
+    <header class="site-header">
+      <div class="header-content">
+        <p class="eyebrow">Proyecto académico · CC3106</p>
+        <h1>Directorio de médicos especialistas</h1>
+        <p class="intro">
+          Consulta información pública recolectada desde Google Places para
+          Ciudad de Guatemala.
+        </p>
+      </div>
+    </header>
+
+    <main id="contenido" class="main-content">
+      <section class="search-panel" aria-labelledby="search-title">
+        <div>
+          <p class="section-label">Consulta</p>
+          <h2 id="search-title">Buscar en el directorio</h2>
+        </div>
+
+        <form id="search-form" class="search-form">
+          <div class="field field-specialty">
+            <label for="especialidad">Especialidad</label>
+            <input
+              id="especialidad"
+              name="especialidad"
+              type="search"
+              maxlength="80"
+              placeholder="Ej. Cardiología"
+              autocomplete="off"
+            >
+          </div>
+
+          <div class="field field-zone">
+            <label for="zona">Zona</label>
+            <input
+              id="zona"
+              name="zona"
+              type="number"
+              inputmode="numeric"
+              min="1"
+              max="25"
+              placeholder="10"
+            >
+          </div>
+
+          <button id="search-button" type="submit">Buscar</button>
+        </form>
+      </section>
+
+      <section class="results" aria-labelledby="results-title">
+        <div class="results-heading">
+          <div>
+            <p class="section-label">Resultados</p>
+            <h2 id="results-title">Profesionales encontrados</h2>
+          </div>
+          <p id="status" class="status" role="status" aria-live="polite">
+            Preparando consulta…
+          </p>
+        </div>
+
+        <div id="error-message" class="message error-message" role="alert" hidden></div>
+        <div id="empty-message" class="message" hidden>
+          No encontramos resultados con estos filtros. Prueba otra especialidad o zona.
+        </div>
+
+        <div id="table-container" class="table-container" hidden>
+          <table>
+            <caption class="visually-hidden">
+              Médicos especialistas encontrados
+            </caption>
+            <thead>
+              <tr>
+                <th scope="col">Nombre</th>
+                <th scope="col">Especialidad</th>
+                <th scope="col">Zona</th>
+                <th scope="col">Dirección</th>
+                <th scope="col">Contacto</th>
+                <th scope="col">Recolectado</th>
+              </tr>
+            </thead>
+            <tbody id="results-body"></tbody>
+          </table>
+        </div>
+
+        <nav id="pagination" class="pagination" aria-label="Paginación" hidden>
+          <button id="previous-page" class="secondary-button" type="button">
+            Anterior
+          </button>
+          <span id="page-label" aria-live="polite">Página 1</span>
+          <button id="next-page" class="secondary-button" type="button">
+            Siguiente
+          </button>
+        </nav>
+      </section>
+
+      <aside class="ethics-note" aria-labelledby="ethics-title">
+        <h2 id="ethics-title">Uso responsable</h2>
+        <p>
+          Este directorio es una referencia académica, no certifica credenciales
+          ni sustituye una recomendación médica. Algunos campos pueden estar
+          incompletos y reflejan la fecha indicada en cada resultado.
+        </p>
+      </aside>
+    </main>
+
+    <footer>
+      <p>Universidad del Valle de Guatemala · Responsible AI</p>
+    </footer>
+  </body>
+</html>
