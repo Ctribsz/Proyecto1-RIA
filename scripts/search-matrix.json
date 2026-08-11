@@ -1,0 +1,22 @@
+[
+  { "especialidad": "Cardiología", "keyword": "cardiólogo", "zona": "1" },
+  { "especialidad": "Cardiología", "keyword": "cardiólogo", "zona": "9" },
+  { "especialidad": "Cardiología", "keyword": "cardiólogo", "zona": "10" },
+  { "especialidad": "Cardiología", "keyword": "cardiólogo", "zona": "14" },
+  { "especialidad": "Pediatría", "keyword": "pediatra", "zona": "1" },
+  { "especialidad": "Pediatría", "keyword": "pediatra", "zona": "7" },
+  { "especialidad": "Pediatría", "keyword": "pediatra", "zona": "10" },
+  { "especialidad": "Pediatría", "keyword": "pediatra", "zona": "11" },
+  { "especialidad": "Dermatología", "keyword": "dermatólogo", "zona": "9" },
+  { "especialidad": "Dermatología", "keyword": "dermatólogo", "zona": "10" },
+  { "especialidad": "Dermatología", "keyword": "dermatólogo", "zona": "14" },
+  { "especialidad": "Dermatología", "keyword": "dermatólogo", "zona": "15" },
+  { "especialidad": "Ginecología", "keyword": "ginecólogo", "zona": "1" },
+  { "especialidad": "Ginecología", "keyword": "ginecólogo", "zona": "9" },
+  { "especialidad": "Ginecología", "keyword": "ginecólogo", "zona": "10" },
+  { "especialidad": "Ginecología", "keyword": "ginecólogo", "zona": "14" },
+  { "especialidad": "Neurología", "keyword": "neurólogo", "zona": "9" },
+  { "especialidad": "Neurología", "keyword": "neurólogo", "zona": "10" },
+  { "especialidad": "Neurología", "keyword": "neurólogo", "zona": "14" },
+  { "especialidad": "Neurología", "keyword": "neurólogo", "zona": "15" }
+]
