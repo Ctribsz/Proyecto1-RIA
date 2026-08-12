@@ -1,15 +1,18 @@
 # Reporte de cobertura
 
-Generado: 2026-08-12T08:44:23.443Z
+Generado: 2026-08-12T15:51:31.000Z
+
+Validación operativa actualizada: 2026-08-12.
 
 Documentos únicos por `place_id`: **215**.
-Sin teléfono: **16**. Sin sitio web: **98**.
+Sin teléfono: **16**. Sin sitio web: **99**.
 
 La última matriz ejecutó 20 búsquedas con una pausa de siete segundos y no
 superó 10 solicitudes por minuto. No se ejecutaron variantes adicionales.
 
 Durante la configuración, validación y dos pasadas controladas se completaron
-41 búsquedas exitosas de Places en total, dentro de la cuota diaria de 100.
+44 búsquedas exitosas de Places en total, dentro de la cuota diaria de 100. Las
+tres validaciones posteriores no alteraron estas métricas del dataset.
 
 ## Por especialidad
 
