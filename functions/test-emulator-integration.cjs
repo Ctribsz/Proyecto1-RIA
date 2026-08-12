@@ -33,7 +33,7 @@ async function main() {
     pageSize: "2",
   }).toString();
   const response = await fetch(endpoint, {
-    headers: { Origin: "http://127.0.0.1:5000" },
+    headers: { Origin: "http://127.0.0.1:5002" },
   });
   assert.equal(response.status, 200);
 

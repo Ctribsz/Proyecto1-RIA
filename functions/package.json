@@ -5,6 +5,7 @@
     "build": "tsc",
     "build:watch": "tsc --watch",
     "serve": "npm run build && firebase emulators:start --only functions,firestore,hosting",
+    "seed:emulator": "node seed-emulator.cjs",
     "test:integration": "npm run build && firebase emulators:exec --only functions,firestore \"node test-emulator-integration.cjs\"",
     "deploy": "firebase deploy --only functions,firestore,hosting",
     "logs": "firebase functions:log",
@@ -16,9 +17,9 @@
   },
   "main": "lib/index.js",
   "dependencies": {
+    "express": "^4.21.2",
     "firebase-admin": "^14.2.0",
-    "firebase-functions": "^7.3.2",
-    "express": "^4.21.2"
+    "firebase-functions": "^7.3.2"
   },
   "devDependencies": {
     "@types/express": "^4.17.21",

@@ -31,6 +31,12 @@ test("CORS autoriza Hosting y rechaza preflight de otros orígenes", async () =>
       headers: { Origin: "https://example.com" },
     });
     assert.equal(denied.status, 403);
+
+    const local = await fetch(url, {
+      method: "OPTIONS",
+      headers: { Origin: "http://127.0.0.1:5002" },
+    });
+    assert.equal(local.status, 204);
   } finally {
     await new Promise<void>((resolve, reject) => {
       server.close((error) => (error ? reject(error) : resolve()));

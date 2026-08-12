@@ -18,6 +18,8 @@ const socialHosts = [
   "instagram.com",
   "linkedin.com",
   "tiktok.com",
+  "wa.me",
+  "whatsapp.com",
   "x.com",
   "twitter.com",
 ];
@@ -132,9 +134,10 @@ export async function searchPlaces(
   zone: string,
   specialty: string,
   apiKey: string,
+  fetchImpl: typeof fetch = fetch,
 ): Promise<MedicoFirestore[]> {
   const textQuery = `${keyword} zona ${zone}, Ciudad de Guatemala, Guatemala`;
-  const response = await fetch(placesEndpoint, {
+  const response = await fetchImpl(placesEndpoint, {
     method: "POST",
     headers: {
       "Content-Type": "application/json",

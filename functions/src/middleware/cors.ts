@@ -3,8 +3,8 @@ import type { NextFunction, Request, RequestHandler, Response } from "express";
 const allowedOrigins = new Set([
   "https://ria-proyecto1.web.app",
   "https://ria-proyecto1.firebaseapp.com",
-  "http://127.0.0.1:5000",
-  "http://localhost:5000",
+  "http://127.0.0.1:5002",
+  "http://localhost:5002",
 ]);
 
 export function cors(request: Request, response: Response, next: NextFunction): void {
