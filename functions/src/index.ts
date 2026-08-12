@@ -27,6 +27,11 @@ export const holaMundo = onRequest(
 export const api = onRequest(
   {
     region: functionRegion,
+    networkInterface: {
+      network: "ria-egress",
+      subnetwork: "ria-egress-us-central1",
+    },
+    vpcEgress: "ALL_TRAFFIC",
     secrets: [googlePlacesApiKey],
     timeoutSeconds: 60,
     maxInstances: 3,
