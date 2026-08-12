@@ -8,7 +8,8 @@ dirección, teléfono, sitio web, zona, `place_id`, fecha y keyword; almacena lo
 datos en Firestore y los expone mediante una API paginada y una UI mínima.
 
 Tecnologías: TypeScript, Node.js 22, Firebase Functions v2, Cloud Firestore,
-Firebase Hosting y Local Emulator Suite. El despliegue está en `ria-proyecto1`:
+Firebase Hosting, Secret Manager, Direct VPC egress, Cloud NAT y Local Emulator
+Suite. El despliegue está en `ria-proyecto1`:
 
 - UI: `https://ria-proyecto1.web.app`
 - API: `https://us-central1-ria-proyecto1.cloudfunctions.net/api`
@@ -21,7 +22,11 @@ flowchart LR
     U -->|HTTPS + CORS| A[Cloud Function API]
     A --> W{IP whitelist}
     W -->|GET /directorio| F[(Firestore)]
-    W -->|POST /recolectar| P[Places API New]
+    W -->|POST /recolectar| V[Direct VPC egress]
+    V --> G[Private Google Access: rango /120]
+    G --> P[Places API New]
+    V -. otros destinos públicos .-> N[Cloud NAT]
+    N --> I[IP pública fija]
     P --> A
     A --> F
     S[Secret Manager] --> A
@@ -33,13 +38,40 @@ de la aplicación: una dirección no autorizada recibe HTTP 403 antes de acceder
 a Places o Firestore. Se verificaron solicitudes autorizadas y no autorizadas.
 CORS acepta únicamente los dominios de Hosting del proyecto y el emulador.
 
-La key de Places está en Secret Manager, nunca en código, Git ni el navegador;
-está restringida a Places API (New). Functions v2 no posee IP de salida fija sin
-VPC y Cloud NAT, por lo que la restricción por IP de la key requeriría esa
-infraestructura adicional. Para este alcance se aplicaron Secret Manager,
-restricción por API, cuotas, alertas de billing, máximo tres instancias e IP
-whitelist de entrada. Firestore rechaza toda lectura y escritura directa de
-clientes; solo Firebase Admin dentro de la Function tiene acceso.
+La key productiva de Places está en Secret Manager, nunca en código, Git ni el
+navegador. Combina restricción de API a `places.googleapis.com` con restricción
+de aplicación a `34.68.66.250` y al rango
+`fda3:e722:ac3:10:25d:5ef0:a2a:0/120`. La Function envía todo el tráfico por la
+red `ria-egress` y la subred `ria-egress-us-central1`. Cloud NAT entrega la IP
+pública fija a destinos externos; las APIs de Google evitan Public NAT mediante
+Private Google Access y observan el rango IPv6 interno asignado a la interfaz
+Direct VPC. Por eso ambos orígenes están autorizados. Este comportamiento está
+documentado en las
+[interacciones de Cloud NAT](https://cloud.google.com/nat/docs/nat-product-interactions).
+
+La whitelist residencial de entrada y la restricción de salida de la key son
+controles distintos. Si cambia la IP de un integrante, se actualiza
+`ALLOWED_IPS`, no la key productiva. El emulador usa una key de desarrollo
+separada, limitada a la IP pública local y a Places API. Firestore rechaza toda
+lectura y escritura directa de clientes; solo Firebase Admin dentro de la
+Function tiene acceso.
+
+### Evidencia del punto 7
+
+- Proyecto y región: `ria-proyecto1`, `us-central1`.
+- Revisión validada: `api-00010-jis`, estado `ACTIVE`, desplegada el
+  `2026-08-12T17:59:31Z`.
+- Salida: `VPC_EGRESS_ALL_TRAFFIC`; red `ria-egress`; subred
+  `ria-egress-us-central1` (`10.42.0.0/24`); máximo 3 instancias.
+- Router/NAT/IP: `ria-egress-router`, `ria-egress-nat`, recurso
+  `ria-egress-ip`, dirección `34.68.66.250`.
+- Key: `places-directorio-backend`, UID
+  `6e5f0339-e4fc-47a3-a825-cb81bc7e94d0`; su valor no se documenta ni se imprime
+  en los comandos de evidencia.
+- Restricciones verificadas: API `places.googleapis.com`; orígenes
+  `34.68.66.250` y `fda3:e722:ac3:10:25d:5ef0:a2a:0/120`.
+- Prueba final del `POST /recolectar`: HTTP 201, cero guardados y cero
+  eliminados con una keyword imposible; la ruta funcionó y no mutó el dataset.
 
 ## 3. API y modelo de datos
 
@@ -69,12 +101,23 @@ Los campos auxiliares normalizados de búsqueda no se exponen como datos médico
 Se documentó una matriz antes de recolectar: `cardiólogo`, `pediatra`,
 `dermatólogo`, `ginecólogo` y `neurólogo`, combinados con cuatro zonas relevantes
 por especialidad. El script ejecuta 20 búsquedas con siete segundos de pausa,
-por debajo de 10 solicitudes por minuto. Se completaron 41 búsquedas exitosas
+por debajo de 10 solicitudes por minuto. Se completaron 44 búsquedas exitosas
 durante configuración, validación y depuración, dentro de la cuota diaria de 100.
 El emulador se usó para pruebas; producción se reservó para integración y demo.
 
+La máscara actual incluye teléfono y sitio web, por lo que activa Text Search
+Enterprise. Al 12 de agosto de 2026, Google publica 1,000 eventos mensuales sin
+costo y luego USD 35 por 1,000 en el primer nivel; deben revisarse siempre las
+[tarifas vigentes de Places](https://developers.google.com/maps/billing-and-pricing/pricing).
+La dirección usada por Cloud NAT cuesta USD 0.005 por hora (aprox. USD 3.65 por
+30.4 días) solo por la IP. Además se cobran el gateway por instancia-hora, los
+datos procesados y el egreso aplicable. Véase la
+[tarifa de Cloud NAT](https://cloud.google.com/nat/pricing). Las alertas, cuota
+diaria de 100 y `maxInstances: 3` limitan la exposición, pero no sustituyen la
+revisión del reporte de facturación.
+
 El dataset final contiene 215 `place_id` únicos, cinco especialidades, siete
-zonas y las 20 combinaciones planificadas. Hay 16 teléfonos y 98 sitios web
+zonas y las 20 combinaciones planificadas. Hay 16 teléfonos y 99 sitios web
 vacíos; no se rellenaron. Los sitios de redes sociales se descartan sin inferir
 un reemplazo. Los exports incluyen fecha de recolección.
 
