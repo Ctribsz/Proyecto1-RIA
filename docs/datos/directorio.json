@@ -1,0 +1,3975 @@
+{
+  "fecha_exportacion": "2026-08-12T08:44:23.443Z",
+  "datos": [
+    {
+      "nombre": "Alfa y Omega Clínica de Ultrasonido y Atención del Embarazo",
+      "especialidad": "Ginecología",
+      "direccion": "5a. Avenida 11-70 zona 1, Edificio Herrera, Cdad. de Guatemala 01001",
+      "telefono": "4437 9554",
+      "sitio_web": "",
+      "zona": "1",
+      "place_id": "ChIJG2RmIJejiYURz18etfX-pD0",
+      "fecha_recoleccion": "2026-08-12T08:36:25.279Z",
+      "keyword_usado": "ginecólogo zona 1, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Alta especialidad Ginecológica/Dra. Jenny Martínez",
+      "especialidad": "Ginecología",
+      "direccion": "301, Edificio Galerías Reforma, Avenida La Reforma 8-60, Cdad. de Guatemala 01009",
+      "telefono": "2261 9208",
+      "sitio_web": "https://clinicadrajennymartinez.my.canva.site/",
+      "zona": "9",
+      "place_id": "ChIJ--ZIK-ujiYURJNTsNleJ9Vw",
+      "fecha_recoleccion": "2026-08-12T08:36:33.341Z",
+      "keyword_usado": "ginecólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_clinic",
+      "tipos_google": [
+        "medical_clinic",
+        "service",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "APROFAM",
+      "especialidad": "Ginecología",
+      "direccion": "8 Calle 0-48, Cdad. de Guatemala",
+      "telefono": "2321 0101",
+      "sitio_web": "http://www.aprofam.org.gt/",
+      "zona": "1",
+      "place_id": "ChIJPaC4MRGiiYURu9d4obkO2pE",
+      "fecha_recoleccion": "2026-08-12T08:36:25.279Z",
+      "keyword_usado": "ginecólogo zona 1, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "health",
+      "tipos_google": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Atención Médica Siloé",
+      "especialidad": "Ginecología",
+      "direccion": "4 Calle 9-64 Zona 1 Ciudad de Guatemala, Cdad. de Guatemala 01001",
+      "telefono": "5205 4797",
+      "sitio_web": "https://www.paginasamarillas.com.gt/empresas/centro-medico-bethel-hospital-nazareth/guatemala-30202147?ad=80536449",
+      "zona": "1",
+      "place_id": "ChIJkwlfUxKiiYURePw8-e0wEnQ",
+      "fecha_recoleccion": "2026-08-12T08:36:25.279Z",
+      "keyword_usado": "ginecólogo zona 1, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "hospital",
+      "tipos_google": [
+        "hospital",
+        "health",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Blue Medical Majadas",
+      "especialidad": "Pediatría",
+      "direccion": "Interior Parque Majadas 24-55, Cdad. de Guatemala 01011",
+      "telefono": "2300 4000",
+      "sitio_web": "http://www.mibluemedical.com/",
+      "zona": "11",
+      "place_id": "ChIJtarM5bGhiYURZOio0LzwfAI",
+      "fecha_recoleccion": "2026-08-12T08:35:45.777Z",
+      "keyword_usado": "pediatra zona 11, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_clinic",
+      "tipos_google": [
+        "medical_clinic",
+        "medical_lab",
+        "pharmacy",
+        "doctor",
+        "service",
+        "health",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Cardio Care",
+      "especialidad": "Cardiología",
+      "direccion": "6A Avenida 4-01, Cdad. de Guatemala 01010",
+      "telefono": "2313 9999",
+      "sitio_web": "http://www.cardiocaresa.com/",
+      "zona": "10",
+      "place_id": "ChIJAX3ERsujiYURw8_IsFmwXHE",
+      "fecha_recoleccion": "2026-08-12T08:35:06.292Z",
+      "keyword_usado": "cardiólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "cardiolifegt",
+      "especialidad": "Cardiología",
+      "direccion": "6ta, Avenida 9-18 zona 10, Edificio Sixtino 2, ala 1, consultorio 805 Guatemala, Cdad. de Guatemala 01010",
+      "telefono": "2256 7975",
+      "sitio_web": "",
+      "zona": "10",
+      "place_id": "ChIJKxv7wDqjiYURPZG2JWiZDwM",
+      "fecha_recoleccion": "2026-08-12T08:35:06.292Z",
+      "keyword_usado": "cardiólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Cardiología",
+      "especialidad": "Cardiología",
+      "direccion": "JFMW+9MM, Cdad. de Guatemala",
+      "telefono": "",
+      "sitio_web": "",
+      "zona": "1",
+      "place_id": "ChIJ7_eYWgCjiYURAvJm_hA3hjY",
+      "fecha_recoleccion": "2026-08-12T08:34:50.291Z",
+      "keyword_usado": "cardiólogo zona 1, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Cardiología Avanzada",
+      "especialidad": "Cardiología",
+      "direccion": "10A Calle 2-30, Cdad. de Guatemala 01014",
+      "telefono": "2228 7111",
+      "sitio_web": "",
+      "zona": "14",
+      "place_id": "ChIJk292TyCjiYURMa-56QMuKe8",
+      "fecha_recoleccion": "2026-08-12T08:35:14.117Z",
+      "keyword_usado": "cardiólogo zona 14, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Cardiología Avanzada zona 10 (Ismael Guzmán)",
+      "especialidad": "Cardiología",
+      "direccion": "4A Avenida 15-73, 10 Guatemala, Cdad. de Guatemala 01010",
+      "telefono": "2337 2087",
+      "sitio_web": "https://cardiologiaguzman.wordpress.com/",
+      "zona": "10",
+      "place_id": "ChIJU2XwZcSjiYUR2EDf6N-a5Ro",
+      "fecha_recoleccion": "2026-08-12T08:35:06.292Z",
+      "keyword_usado": "cardiólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Cardiología Hemodinámica Y Medicina Interna Clínica Medica Especializada",
+      "especialidad": "Cardiología",
+      "direccion": "0-19, 9 Calle, Cdad. de Guatemala",
+      "telefono": "4182 3515",
+      "sitio_web": "",
+      "zona": "14",
+      "place_id": "ChIJcW070haiiYURA5poQh4w058",
+      "fecha_recoleccion": "2026-08-12T08:35:14.117Z",
+      "keyword_usado": "cardiólogo zona 14, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_clinic",
+      "tipos_google": [
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "CardioMedic Guatemala",
+      "especialidad": "Cardiología",
+      "direccion": "Oficina 535, Trabajo Ascend, 13 Calle 05-31, Cdad. de Guatemala 01009",
+      "telefono": "5539 4171",
+      "sitio_web": "https://www.cardiomedicgt.com/",
+      "zona": "9",
+      "place_id": "ChIJvV5_36-jiYURaqKQ2CBpbtI",
+      "fecha_recoleccion": "2026-08-12T08:34:58.296Z",
+      "keyword_usado": "cardiólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "CEC - Centro de Estudios Cardiovasculares",
+      "especialidad": "Cardiología",
+      "direccion": "6 avenida A 9-18 Zona 10 Edifício Sixtino 2, Oficina 308, Nivel 3, Cdad. de Guatemala 01010",
+      "telefono": "3199 2902",
+      "sitio_web": "",
+      "zona": "10",
+      "place_id": "ChIJNWpe2oOjiYURt-za9m4Swt4",
+      "fecha_recoleccion": "2026-08-12T08:35:06.292Z",
+      "keyword_usado": "cardiólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_clinic",
+      "tipos_google": [
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "CEGO Clínica de Especialidades Gineco-Obstétricas",
+      "especialidad": "Ginecología",
+      "direccion": "Ofi 607, Edificio Reforma 10, Avenida La Reforma 9-55, Cdad. de Guatemala 01010",
+      "telefono": "2424 5100",
+      "sitio_web": "http://www.ginecologosdeguatemala.com/",
+      "zona": "10",
+      "place_id": "ChIJU9JI9Q-jiYURxzFykoBrJ7s",
+      "fecha_recoleccion": "2026-08-12T08:36:41.375Z",
+      "keyword_usado": "ginecólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_clinic",
+      "tipos_google": [
+        "medical_clinic",
+        "health",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "centro cardiovascular avanzado CARDIOLOGOS EN GUATEMALA",
+      "especialidad": "Cardiología",
+      "direccion": "6 avenida 9-18 zona 10 oficina 902 del ala 1, FRENTE A HOSPITAL HERRERA, Cdad. de Guatemala 01010",
+      "telefono": "2296 6920",
+      "sitio_web": "https://cca.com.gt/",
+      "zona": "10",
+      "place_id": "ChIJTymONAWjiYURAgUF6CepZr8",
+      "fecha_recoleccion": "2026-08-12T08:35:06.292Z",
+      "keyword_usado": "cardiólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Centro Clínico Medikor Zona 14",
+      "especialidad": "Ginecología",
+      "direccion": "10A calle 2-45 Zona 14, Clinica 704, Edificio Clínicas Médicas de las Las Américas, Cdad. de Guatemala 01014",
+      "telefono": "2293 9649",
+      "sitio_web": "http://www.medikorgt.com/",
+      "zona": "14",
+      "place_id": "ChIJjUnEtbWjiYURxW2oh5L24iM",
+      "fecha_recoleccion": "2026-08-12T08:36:49.190Z",
+      "keyword_usado": "ginecólogo zona 14, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Centro Clínico Pediátrico",
+      "especialidad": "Pediatría",
+      "direccion": "12 Calle 1-25, Cdad. de Guatemala 01010",
+      "telefono": "2427 2600",
+      "sitio_web": "http://ccp.com.gt/clinica/contactenos/",
+      "zona": "10",
+      "place_id": "ChIJz_JTsNejiYURKzMrKRa6F18",
+      "fecha_recoleccion": "2026-08-12T08:35:37.802Z",
+      "keyword_usado": "pediatra zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Centro De Epilepsia Y Neurocirugia Funcional HUMANA",
+      "especialidad": "Neurología",
+      "direccion": "10, 7A Calle 1-62, Cdad. de Guatemala 01010",
+      "telefono": "2362 3211",
+      "sitio_web": "http://humanagt.org/",
+      "zona": "10",
+      "place_id": "ChIJgSk_M8yjiYURgDn3ov7qJRc",
+      "fecha_recoleccion": "2026-08-12T08:37:05.004Z",
+      "keyword_usado": "neurólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "hospital",
+      "tipos_google": [
+        "hospital",
+        "health",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Centro de Rehabilitación Cardíaca de Guatemala",
+      "especialidad": "Cardiología",
+      "direccion": "6 ave. 9-18 zona 10, Edificio Sixtino II, piso 3, Cdad. de Guatemala 01010",
+      "telefono": "3068 9332",
+      "sitio_web": "https://www.rehabilitacioncardiaca.com.gt/",
+      "zona": "10",
+      "place_id": "ChIJXVean6ejiYURUZvbIp2eFbs",
+      "fecha_recoleccion": "2026-08-12T08:35:06.292Z",
+      "keyword_usado": "cardiólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Centro Gine-Obstetrico Nuestra Señora del Rosario",
+      "especialidad": "Ginecología",
+      "direccion": "TSBorja Guatemala, 11 Calle, Cdad. de Guatemala",
+      "telefono": "",
+      "sitio_web": "",
+      "zona": "1",
+      "place_id": "ChIJH6XrDxWiiYUR8bnNVW2p1XQ",
+      "fecha_recoleccion": "2026-08-12T08:36:25.279Z",
+      "keyword_usado": "ginecólogo zona 1, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "hospital",
+      "tipos_google": [
+        "hospital",
+        "health",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Centro Ginecológico",
+      "especialidad": "Ginecología",
+      "direccion": "3 calle A 4-32, Cdad. de Guatemala 01010",
+      "telefono": "2331 5787",
+      "sitio_web": "",
+      "zona": "10",
+      "place_id": "ChIJETzuD0OjiYURP-z4wKJZBuk",
+      "fecha_recoleccion": "2026-08-12T08:36:41.375Z",
+      "keyword_usado": "ginecólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Centro Ginecológico Las Américas",
+      "especialidad": "Ginecología",
+      "direccion": "Edificio Prospere, 10 calle 2-30, Cdad. de Guatemala 01014",
+      "telefono": "2460 2849",
+      "sitio_web": "https://ginecologialasamericas.com/",
+      "zona": "14",
+      "place_id": "ChIJncTqu0GjiYURnyjXIjbFtHc",
+      "fecha_recoleccion": "2026-08-12T08:36:49.190Z",
+      "keyword_usado": "ginecólogo zona 14, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Centro Médico",
+      "especialidad": "Neurología",
+      "direccion": "6A Avenida 3-47, Cdad. de Guatemala 01010",
+      "telefono": "2319 4600",
+      "sitio_web": "http://www.centromedico.com.gt/",
+      "zona": "10",
+      "place_id": "ChIJR9VyPcujiYURhE-i24vTWlY",
+      "fecha_recoleccion": "2026-08-12T08:37:05.004Z",
+      "keyword_usado": "neurólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_center",
+      "tipos_google": [
+        "medical_center",
+        "medical_clinic",
+        "hospital",
+        "health",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Centro Medico Dr Roberto Koch",
+      "especialidad": "Ginecología",
+      "direccion": "2A Av. 13-51, Cdad. de Guatemala",
+      "telefono": "",
+      "sitio_web": "",
+      "zona": "1",
+      "place_id": "ChIJvR4J_wGjiYURn3fMNr74fzQ",
+      "fecha_recoleccion": "2026-08-12T08:36:25.279Z",
+      "keyword_usado": "ginecólogo zona 1, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "hospital",
+      "tipos_google": [
+        "hospital",
+        "health",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Centro Médico Morazán",
+      "especialidad": "Ginecología",
+      "direccion": "6 AV 1-29, Cdad. de Guatemala",
+      "telefono": "2232 5443",
+      "sitio_web": "https://www.paginasamarillas.com.gt/empresas/centro-medico-morazan/guatemala-15792598?ad=22638545",
+      "zona": "1",
+      "place_id": "ChIJQUkncMOjiYURTaz8Q5-isxw",
+      "fecha_recoleccion": "2026-08-12T08:36:25.279Z",
+      "keyword_usado": "ginecólogo zona 1, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_center",
+      "tipos_google": [
+        "medical_center",
+        "hospital",
+        "health",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "CENTRO MEDICO SAN ANGEL",
+      "especialidad": "Pediatría",
+      "direccion": "13 Calle C 27-47, Cdad. de Guatemala",
+      "telefono": "2492 5454",
+      "sitio_web": "",
+      "zona": "7",
+      "place_id": "ChIJb0KWeMChiYUR-Luo0n3qqYI",
+      "fecha_recoleccion": "2026-08-12T08:35:29.856Z",
+      "keyword_usado": "pediatra zona 7, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "hospital",
+      "tipos_google": [
+        "hospital",
+        "health",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Centro Medico Theilheimer",
+      "especialidad": "Cardiología",
+      "direccion": "Clínicas Médicas Theilheimer, 4A Calle 6 -37, Cdad. de Guatemala 01009",
+      "telefono": "2232 0995",
+      "sitio_web": "",
+      "zona": "9",
+      "place_id": "ChIJB6qst9KjiYURYLU33EtHsmk",
+      "fecha_recoleccion": "2026-08-12T08:34:58.296Z",
+      "keyword_usado": "cardiólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Centro Neurológico Integral Guatemala",
+      "especialidad": "Neurología",
+      "direccion": "Clínica 303 A, Edificio Medico Las Brisas, 6A Avenida 7-39, Cdad. de Guatemala 01010",
+      "telefono": "3182 9259",
+      "sitio_web": "https://www.centroneurologicointegralguatemala.com.gt/",
+      "zona": "10",
+      "place_id": "ChIJ-9GeLBKjiYURthZPs44CpRA",
+      "fecha_recoleccion": "2026-08-12T08:37:05.004Z",
+      "keyword_usado": "neurólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Centro Pediátrico Chiquitines",
+      "especialidad": "Pediatría",
+      "direccion": "Avenida Elena 2-53, Cdad. de Guatemala 01001",
+      "telefono": "3770 7666",
+      "sitio_web": "http://www.chiquitinespediatra.com/",
+      "zona": "1",
+      "place_id": "ChIJg_fiwdmjiYURuv7AMsyjMH8",
+      "fecha_recoleccion": "2026-08-12T08:35:21.951Z",
+      "keyword_usado": "pediatra zona 1, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_clinic",
+      "tipos_google": [
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Centro Pediatrico Doctores Leonardo",
+      "especialidad": "Pediatría",
+      "direccion": "6 Avenida 9-18, Cdad. de Guatemala 01010",
+      "telefono": "2278 9255",
+      "sitio_web": "",
+      "zona": "10",
+      "place_id": "ChIJC3SIBfmjiYUR8BqJxGg_WTE",
+      "fecha_recoleccion": "2026-08-12T08:35:37.802Z",
+      "keyword_usado": "pediatra zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "CIAM Miraflores",
+      "especialidad": "Pediatría",
+      "direccion": "Local L7, C.C 07, Cdad. de Guatemala 01011",
+      "telefono": "2506 4141",
+      "sitio_web": "http://ciam.com.gt/",
+      "zona": "11",
+      "place_id": "ChIJuajxhqWhiYURjMN9KzeIdZ0",
+      "fecha_recoleccion": "2026-08-12T08:35:45.777Z",
+      "keyword_usado": "pediatra zona 11, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_center",
+      "tipos_google": [
+        "medical_center",
+        "hospital",
+        "medical_clinic",
+        "doctor",
+        "service",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "CIAM Zona 9",
+      "especialidad": "Ginecología",
+      "direccion": "7A Avenida 9-97, Cdad. de Guatemala 01009",
+      "telefono": "2506 4141",
+      "sitio_web": "http://www.ciam.com.gt/",
+      "zona": "9",
+      "place_id": "ChIJFTTEntGjiYURhYWKYdoz0Pw",
+      "fecha_recoleccion": "2026-08-12T08:36:33.341Z",
+      "keyword_usado": "ginecólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_center",
+      "tipos_google": [
+        "medical_center",
+        "medical_clinic",
+        "hospital",
+        "doctor",
+        "service",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clinica Cardiologia Javier Falla",
+      "especialidad": "Cardiología",
+      "direccion": "20 Calle 5-65, Cdad. de Guatemala 01010",
+      "telefono": "3042 8982",
+      "sitio_web": "",
+      "zona": "10",
+      "place_id": "ChIJr3HCQlyjiYUR3oNqSD93fr8",
+      "fecha_recoleccion": "2026-08-12T08:35:06.292Z",
+      "keyword_usado": "cardiólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clínica de cardiología; Dr. Carlos Enrique Sánchez Samayoa",
+      "especialidad": "Cardiología",
+      "direccion": "6 Avenida 3-22 Zona 10, 5to Nivel, Oficina 510. Clínicas del Centro Médico II Guatemala, Cdad. de Guatemala 01010",
+      "telefono": "2360 5789",
+      "sitio_web": "",
+      "zona": "10",
+      "place_id": "ChIJywJubbqjiYURGBE-V9QuMu0",
+      "fecha_recoleccion": "2026-08-12T08:35:06.292Z",
+      "keyword_usado": "cardiólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clinica de Ginecología Obstetricia, Dr Carlos Aguilar O",
+      "especialidad": "Ginecología",
+      "direccion": "10 Calle 6, Cdad. de Guatemala 01009",
+      "telefono": "2508 7817",
+      "sitio_web": "",
+      "zona": "9",
+      "place_id": "ChIJ4STjK-CjiYURDp8KDZYL_wg",
+      "fecha_recoleccion": "2026-08-12T08:36:33.341Z",
+      "keyword_usado": "ginecólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clínica de Ginecologia y Obstetricia Dra Cindy Ventura",
+      "especialidad": "Ginecología",
+      "direccion": "7a. Av 9-64 zona 9 Edificio Zona Médica, clínica 617, nivel, Cdad. de Guatemala 01009",
+      "telefono": "2214 4571",
+      "sitio_web": "",
+      "zona": "9",
+      "place_id": "ChIJlaYtXvKjiYUR9Y6uB-bTl70",
+      "fecha_recoleccion": "2026-08-12T08:36:33.341Z",
+      "keyword_usado": "ginecólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_clinic",
+      "tipos_google": [
+        "medical_clinic",
+        "service",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clínica de la Dra. Heydee Castañeda",
+      "especialidad": "Ginecología",
+      "direccion": "Clinica de la Dra Heydee Castañeda, Edificio Design Center, Torre 1, Cdad. de Guatemala 01010",
+      "telefono": "2289 2549",
+      "sitio_web": "https://dracastaneda.com/",
+      "zona": "10",
+      "place_id": "ChIJCfQYvYejiYURB0KJmUQbm2w",
+      "fecha_recoleccion": "2026-08-12T08:36:41.375Z",
+      "keyword_usado": "ginecólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clínica de medicina Fetal \"Vida\" / Dra. Sofía Desireé Velásquez - Medicina Fetal / Ginecología y Obstetricia",
+      "especialidad": "Ginecología",
+      "direccion": "Edificio Prospere, 10 calle 2-30, Cdad. de Guatemala 01014",
+      "telefono": "3062 6523",
+      "sitio_web": "",
+      "zona": "14",
+      "place_id": "ChIJ0XZRkiOjiYURE-5nyC-mthI",
+      "fecha_recoleccion": "2026-08-12T08:36:49.190Z",
+      "keyword_usado": "ginecólogo zona 14, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clínica de Neurología",
+      "especialidad": "Neurología",
+      "direccion": "6A Avenida 322, Cdad. de Guatemala 01010",
+      "telefono": "3879 5192",
+      "sitio_web": "",
+      "zona": "10",
+      "place_id": "ChIJz2GG4pSjiYUR7OVxdHuDZhU",
+      "fecha_recoleccion": "2026-08-12T08:37:05.004Z",
+      "keyword_usado": "neurólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_clinic",
+      "tipos_google": [
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clínica de Neurología, Neuroinmunología y Esclerosis Múltiple Dra. Alejandra Gramajo",
+      "especialidad": "Neurología",
+      "direccion": "Edificio SaluCentro, Clínica C-3, 10 Calle 6-40, Cdad. de Guatemala 01009",
+      "telefono": "3570 8341",
+      "sitio_web": "https://www.findoctor.com/es/doctores/dra-alejandra-gramajo",
+      "zona": "9",
+      "place_id": "ChIJw67Y2ZejiYURxyQjd34Edgc",
+      "fecha_recoleccion": "2026-08-12T08:36:57.072Z",
+      "keyword_usado": "neurólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clínica Del Dr. Victor Arevalo",
+      "especialidad": "Neurología",
+      "direccion": "Edificio Sixtino dos oficina 703 Ala uno Zona 10 Ciudad de Guatemala, Cdad. de Guatemala 01010",
+      "telefono": "2375 2222",
+      "sitio_web": "",
+      "zona": "10",
+      "place_id": "ChIJyd7hgV6jiYURs43nAqn7DEk",
+      "fecha_recoleccion": "2026-08-12T08:37:05.004Z",
+      "keyword_usado": "neurólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clínica del Sueño / Dr. Gustavo Cosenza",
+      "especialidad": "Neurología",
+      "direccion": "3A Calle A 8-51, Cdad. de Guatemala 01010",
+      "telefono": "2360 8903",
+      "sitio_web": "https://www.clinicadelsuenogt.com/",
+      "zona": "10",
+      "place_id": "ChIJEZgUEfejiYURtkTOOLrhs1A",
+      "fecha_recoleccion": "2026-08-12T08:37:05.004Z",
+      "keyword_usado": "neurólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "health",
+      "tipos_google": [
+        "medical_clinic",
+        "doctor",
+        "health",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clínica Dermatológica Bella Piel – Dermatóloga Guatemala",
+      "especialidad": "Dermatología",
+      "direccion": "Edificio INSIGNE, Blvd. Vista Hermosa, Cdad. de Guatemala 01015",
+      "telefono": "3039 4493",
+      "sitio_web": "https://bellapielgt.com/",
+      "zona": "15",
+      "place_id": "ChIJS_sTD06jiYUR4fUczTwZOtQ",
+      "fecha_recoleccion": "2026-08-12T08:36:17.440Z",
+      "keyword_usado": "dermatólogo zona 15, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "CLÍNICA DERMATOLÓGICA DR. ROLANDO FALLA",
+      "especialidad": "Dermatología",
+      "direccion": "4 Calle 3 - 25, Cdad. de Guatemala",
+      "telefono": "4117 7605",
+      "sitio_web": "https://www.paginasamarillas.com.gt/empresas/clinica-dermatologica-dr-rolando-falla/ciudad-de-guatemala-30103900?ad=80587852",
+      "zona": "9",
+      "place_id": "ChIJbZ1h9N2hiYURLq0MMuLvzqM",
+      "fecha_recoleccion": "2026-08-12T08:35:53.806Z",
+      "keyword_usado": "dermatólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clinica Dermatologica Dra. Liza Arias Dermatologa",
+      "especialidad": "Dermatología",
+      "direccion": "Edificio Integral Medical Center II, 9A Calle 4-52, Cdad. de Guatemala 01010",
+      "telefono": "2296 8023",
+      "sitio_web": "https://dralizaarias.com.gt/",
+      "zona": "10",
+      "place_id": "ChIJ04Uu1LijiYURqFwcYvsrJDE",
+      "fecha_recoleccion": "2026-08-12T08:36:01.891Z",
+      "keyword_usado": "dermatólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clinica Dr Fredy Avendaño",
+      "especialidad": "Pediatría",
+      "direccion": "clínica 302, Edificio Renovati, 2a calle 6-24, Cdad. de Guatemala 01010",
+      "telefono": "5202 4631",
+      "sitio_web": "https://www.doctoranytime.gt/d/pediatra/jorge-avendano",
+      "zona": "10",
+      "place_id": "ChIJ53VPxsujiYURUxmTirHHjjk",
+      "fecha_recoleccion": "2026-08-12T08:35:37.802Z",
+      "keyword_usado": "pediatra zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clínica Dr Martínez",
+      "especialidad": "Pediatría",
+      "direccion": "JCGX+7MQ, Cdad. de Guatemala",
+      "telefono": "",
+      "sitio_web": "",
+      "zona": "7",
+      "place_id": "ChIJH98AvF2hiYURruDHOfuE7IQ",
+      "fecha_recoleccion": "2026-08-12T08:35:29.856Z",
+      "keyword_usado": "pediatra zona 7, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clínica DR. Henry Stokes. Neurología",
+      "especialidad": "Neurología",
+      "direccion": "N- 4, Edificio Multimedica, 2 Calle 25-19, Cdad. de Guatemala",
+      "telefono": "5608 0700",
+      "sitio_web": "",
+      "zona": "15",
+      "place_id": "ChIJ6aJMZhqiiYURsmNAJOyym9c",
+      "fecha_recoleccion": "2026-08-12T08:37:20.722Z",
+      "keyword_usado": "neurólogo zona 15, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clinica Dr. Julio Barreno",
+      "especialidad": "Pediatría",
+      "direccion": "5A Avenida 1-29, Cdad. de Guatemala",
+      "telefono": "2232 2728",
+      "sitio_web": "",
+      "zona": "1",
+      "place_id": "ChIJq1sgxCKjiYUR5HvMH2N1blE",
+      "fecha_recoleccion": "2026-08-12T08:35:21.951Z",
+      "keyword_usado": "pediatra zona 1, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clinica Dr. Mora Hector",
+      "especialidad": "Pediatría",
+      "direccion": "JFMP+VQ8, 14 Calle, Cdad. de Guatemala",
+      "telefono": "",
+      "sitio_web": "",
+      "zona": "1",
+      "place_id": "ChIJyczliz2iiYURCyo6eWTdb6A",
+      "fecha_recoleccion": "2026-08-12T08:35:21.951Z",
+      "keyword_usado": "pediatra zona 1, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clinica Dr. Pinto",
+      "especialidad": "Pediatría",
+      "direccion": "JFQJ+FQ6, 11 Calle, Cdad. de Guatemala",
+      "telefono": "2250 0149",
+      "sitio_web": "",
+      "zona": "11",
+      "place_id": "ChIJn17XYcCjiYURBMqfD2NZoro",
+      "fecha_recoleccion": "2026-08-12T08:35:45.777Z",
+      "keyword_usado": "pediatra zona 11, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clinica Dra Geraldine Cheang",
+      "especialidad": "Dermatología",
+      "direccion": "2 Calle 06-24, Cdad. de Guatemala 01010",
+      "telefono": "5413 1453",
+      "sitio_web": "",
+      "zona": "10",
+      "place_id": "ChIJNWhfCACjiYUROG2DRaK5LiM",
+      "fecha_recoleccion": "2026-08-12T08:36:01.891Z",
+      "keyword_usado": "dermatólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clínica Dra. Cindy Morataya",
+      "especialidad": "Ginecología",
+      "direccion": "6to, clínica 615, 10A Calle 2-22, Cdad. de Guatemala",
+      "telefono": "2333 7540",
+      "sitio_web": "",
+      "zona": "14",
+      "place_id": "ChIJE0A4qI6jiYURIMSLBr7UmU8",
+      "fecha_recoleccion": "2026-08-12T08:36:49.190Z",
+      "keyword_usado": "ginecólogo zona 14, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clinica Dra. Miriam Lima G.",
+      "especialidad": "Ginecología",
+      "direccion": "oficina 503, Edificio Torre Azul, 4 calle 7-53, Cdad. de Guatemala 01009",
+      "telefono": "2361 1705",
+      "sitio_web": "",
+      "zona": "9",
+      "place_id": "ChIJj3YgGACjiYURlT4VSxpSrmU",
+      "fecha_recoleccion": "2026-08-12T08:36:33.341Z",
+      "keyword_usado": "ginecólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clínica Gineco-Obstétrica Dr Salvador Alvarado",
+      "especialidad": "Ginecología",
+      "direccion": "7 Avenida 3-33 Zona 9 Edificio Torre Empresarial Nivel 6, Oficina 603A, Cdad. de Guatemala 01009",
+      "telefono": "2362 3682",
+      "sitio_web": "",
+      "zona": "9",
+      "place_id": "ChIJp91udTejiYURTo4ikoexMI4",
+      "fecha_recoleccion": "2026-08-12T08:36:33.341Z",
+      "keyword_usado": "ginecólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "medical_clinic",
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clinica Gineco-Obstétrica GAL",
+      "especialidad": "Ginecología",
+      "direccion": "Ofi 341, Trabajo Ascend, 13 Calle 5-31, Cdad. de Guatemala 01009",
+      "telefono": "2509 9168",
+      "sitio_web": "",
+      "zona": "9",
+      "place_id": "ChIJl4vQlvSjiYURGyz0AwWKpbg",
+      "fecha_recoleccion": "2026-08-12T08:36:33.341Z",
+      "keyword_usado": "ginecólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "medical_clinic",
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "CLINICA GINECOB DRA. REYNA RODRIGUEZ GINECOLOGA OBSTETRA Y DR. ERICK LUNA ESPECIALISTA EN NIÑOS PEDIATRA",
+      "especialidad": "Pediatría",
+      "direccion": "11 Calle 12-22, Cdad. de Guatemala",
+      "telefono": "2259 7362",
+      "sitio_web": "",
+      "zona": "11",
+      "place_id": "ChIJFUUk1dmhiYUReZHYfSJR4UA",
+      "fecha_recoleccion": "2026-08-12T08:35:45.777Z",
+      "keyword_usado": "pediatra zona 11, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "health",
+      "tipos_google": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clínica Integral De La Mujer (CLIDEM) Dra. Eugenia Caballeros",
+      "especialidad": "Ginecología",
+      "direccion": "clinica 602, Edificio Anexo Hospital La Paz Las Américas, 10 calle 2-22, Cdad. de Guatemala 01014",
+      "telefono": "3022 2768",
+      "sitio_web": "",
+      "zona": "14",
+      "place_id": "ChIJN9XoSh2jiYURj31DPfG0EQA",
+      "fecha_recoleccion": "2026-08-12T08:36:49.190Z",
+      "keyword_usado": "ginecólogo zona 14, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_clinic",
+      "tipos_google": [
+        "medical_clinic",
+        "doctor",
+        "health",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clínica Médica Dermatológica - Dra. Maria Obregón",
+      "especialidad": "Dermatología",
+      "direccion": "10a Calle 2-45 Z.14, Edificio Médico Las Américas, Clínica 601, Cdad. de Guatemala 01014",
+      "telefono": "2368 3623",
+      "sitio_web": "http://www.dermatologia.com.gt/",
+      "zona": "14",
+      "place_id": "ChIJv79rP0ijiYURCerSI8jDYJE",
+      "fecha_recoleccion": "2026-08-12T08:36:09.656Z",
+      "keyword_usado": "dermatólogo zona 14, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clinica Medica Dr. Castellanos",
+      "especialidad": "Pediatría",
+      "direccion": "A, JFVJ+WCC, 4A Calle, Cdad. de Guatemala",
+      "telefono": "3094 1182",
+      "sitio_web": "",
+      "zona": "7",
+      "place_id": "ChIJAYAwGRuiiYURevu9vk02KFI",
+      "fecha_recoleccion": "2026-08-12T08:35:29.856Z",
+      "keyword_usado": "pediatra zona 7, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clínica Médica Gamarro, Edificio Centro Dos 37, área sótano",
+      "especialidad": "Cardiología",
+      "direccion": "11 Calle 2-37, Cdad. de Guatemala 01001",
+      "telefono": "2232 6547",
+      "sitio_web": "",
+      "zona": "1",
+      "place_id": "ChIJIcampBmiiYUR2Jdo-kvbz_c",
+      "fecha_recoleccion": "2026-08-12T08:34:50.291Z",
+      "keyword_usado": "cardiólogo zona 1, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_clinic",
+      "tipos_google": [
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clínica Medica Infantil - Dr. Moises López",
+      "especialidad": "Pediatría",
+      "direccion": "6 Avenida 9-18 zona 10 Edificio Sixtino II Oficina 504, Torre II Ciudad de Guatemala, Cdad. de Guatemala 01010",
+      "telefono": "2278 0081",
+      "sitio_web": "https://www.paginasamarillas.com.gt/empresas/dr-moises-lopez/guatemala-30151542?ad=80631426",
+      "zona": "10",
+      "place_id": "ChIJG7eIdSWjiYURfJz0pnUzSd4",
+      "fecha_recoleccion": "2026-08-12T08:35:37.802Z",
+      "keyword_usado": "pediatra zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clínica Médica Pediátrica del Dr. Edwin Arturo Jünger Quezada",
+      "especialidad": "Pediatría",
+      "direccion": "6 avenida 2-55 zona 10, Edificio Verona, oficina 303, nivel, Cdad. de Guatemala 01010",
+      "telefono": "4024 2629",
+      "sitio_web": "https://ycard.co/edwinjunger",
+      "zona": "10",
+      "place_id": "ChIJpdle7OyjiYURVm0RevckM98",
+      "fecha_recoleccion": "2026-08-12T08:35:37.802Z",
+      "keyword_usado": "pediatra zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clínica Mis Pediatras",
+      "especialidad": "Pediatría",
+      "direccion": "Anillo Periférico, Cdad. de Guatemala",
+      "telefono": "5918 6270",
+      "sitio_web": "",
+      "zona": "11",
+      "place_id": "ChIJLWw-vrV1iYURE96fJe9OImE",
+      "fecha_recoleccion": "2026-08-12T08:35:45.777Z",
+      "keyword_usado": "pediatra zona 11, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clínica Nacer",
+      "especialidad": "Ginecología",
+      "direccion": "7A Avenida 9-64, Cdad. de Guatemala 01009",
+      "telefono": "3699 3155",
+      "sitio_web": "",
+      "zona": "9",
+      "place_id": "ChIJ-8t36TGiiYURKSObq--q0YI",
+      "fecha_recoleccion": "2026-08-12T08:36:33.341Z",
+      "keyword_usado": "ginecólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clínica Neurológica Dr. Mario Herrera",
+      "especialidad": "Neurología",
+      "direccion": "7A Avenida 9-71, Cdad. de Guatemala 01009",
+      "telefono": "2334 8169",
+      "sitio_web": "",
+      "zona": "9",
+      "place_id": "ChIJWZqeGgCjiYURnWnQ4cGcmUI",
+      "fecha_recoleccion": "2026-08-12T08:36:57.072Z",
+      "keyword_usado": "neurólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_clinic",
+      "tipos_google": [
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "CLÍNICA NEUROPEDIÁTRICA DR. JOSÈ MANUEL PÉREZ CÓRDOVA",
+      "especialidad": "Neurología",
+      "direccion": "10ª CALLE 2-22 ZONA 14, CLÍNICAS MÉDICAS CENTRO HOSPITALARIO LA PAZ, Cdad. de Guatemala 01014",
+      "telefono": "2337 4274",
+      "sitio_web": "https://clinicaneuropediatrica.org/",
+      "zona": "14",
+      "place_id": "ChIJS0S1DcujiYURLZKXqo0AXcc",
+      "fecha_recoleccion": "2026-08-12T08:37:12.884Z",
+      "keyword_usado": "neurólogo zona 14, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "ClÍnica Obstetrik",
+      "especialidad": "Ginecología",
+      "direccion": "2-37, 11 Calle, Cdad. de Guatemala",
+      "telefono": "",
+      "sitio_web": "",
+      "zona": "1",
+      "place_id": "ChIJAwOVpBmiiYURNqUvdXDw034",
+      "fecha_recoleccion": "2026-08-12T08:36:25.279Z",
+      "keyword_usado": "ginecólogo zona 1, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_clinic",
+      "tipos_google": [
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clinica Pediatría Doctor Marcos Taracena -Herrera Llerandi",
+      "especialidad": "Pediatría",
+      "direccion": "Norte Herrera Llerandi, 6A Avenida 7-55, Cdad. de Guatemala 01010",
+      "telefono": "5629 5576",
+      "sitio_web": "https://web.herrerallerandi.com/medicos/directorio_medico.php?md=101",
+      "zona": "10",
+      "place_id": "ChIJvZBjUACjiYUR_dFO9Dke0ZY",
+      "fecha_recoleccion": "2026-08-12T08:35:37.802Z",
+      "keyword_usado": "pediatra zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clinica Pediátrica Dr. Fernando Aguirre",
+      "especialidad": "Pediatría",
+      "direccion": "piso 7, oficina 7B, Edificio Médico Obelisco, Avenida Las Américas 21-69, Cdad. de Guatemala 01010",
+      "telefono": "3885 1106",
+      "sitio_web": "",
+      "zona": "10",
+      "place_id": "ChIJKXYXodyjiYURGQIliPvZ7L0",
+      "fecha_recoleccion": "2026-08-12T08:35:37.802Z",
+      "keyword_usado": "pediatra zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clínica Pediátrica Kids Kingdom",
+      "especialidad": "Pediatría",
+      "direccion": "2do, Centro Comercial La Quinta, Local 96, Calz. San Juan 13-90, Cdad. de Guatemala 01007",
+      "telefono": "3843 6347",
+      "sitio_web": "",
+      "zona": "7",
+      "place_id": "ChIJJ-RNyTKhiYUR1W9r21pIgvM",
+      "fecha_recoleccion": "2026-08-12T08:35:29.856Z",
+      "keyword_usado": "pediatra zona 7, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clínica pediátrico doctor Soto",
+      "especialidad": "Pediatría",
+      "direccion": "2A Calle 3-58, Cdad. de Guatemala",
+      "telefono": "",
+      "sitio_web": "",
+      "zona": "1",
+      "place_id": "ChIJo-KxS_SjiYURTruEdVmINCU",
+      "fecha_recoleccion": "2026-08-12T08:35:21.951Z",
+      "keyword_usado": "pediatra zona 1, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clinicas Medicas La Paz",
+      "especialidad": "Neurología",
+      "direccion": "10 calle 2, Cdad. de Guatemala",
+      "telefono": "",
+      "sitio_web": "",
+      "zona": "14",
+      "place_id": "ChIJX1dFfKqjiYURmiCnAfOejP8",
+      "fecha_recoleccion": "2026-08-12T08:37:12.884Z",
+      "keyword_usado": "neurólogo zona 14, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "CLUB GTM GUATEMALA",
+      "especialidad": "Pediatría",
+      "direccion": "12 Calle 12-54, Cdad. de Guatemala",
+      "telefono": "5205 2236",
+      "sitio_web": "",
+      "zona": "11",
+      "place_id": "ChIJZWJxTh2hiYUR-K0i-8B_LUI",
+      "fecha_recoleccion": "2026-08-12T08:35:45.777Z",
+      "keyword_usado": "pediatra zona 11, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Consultorio Casa Central",
+      "especialidad": "Ginecología",
+      "direccion": "1 Avenida 13-15, Cdad. de Guatemala",
+      "telefono": "2251 4106",
+      "sitio_web": "",
+      "zona": "1",
+      "place_id": "ChIJcR9baB2jiYUR6fCVLm5n4UM",
+      "fecha_recoleccion": "2026-08-12T08:36:25.279Z",
+      "keyword_usado": "ginecólogo zona 1, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_clinic",
+      "tipos_google": [
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "DERMAMED Guatemala",
+      "especialidad": "Dermatología",
+      "direccion": "Ofi 300, Ciudad de, Clínicas Médicas, 4A Avenida 15-73, Cdad. de Guatemala 01010",
+      "telefono": "2337 3716",
+      "sitio_web": "http://www.dermamed.com.gt/",
+      "zona": "10",
+      "place_id": "ChIJvSoYZsSjiYURqp6WN46wfDg",
+      "fecha_recoleccion": "2026-08-12T08:36:01.891Z",
+      "keyword_usado": "dermatólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "skin_care_clinic",
+        "medical_clinic",
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "DERMAQ Centro de dermatología especializada",
+      "especialidad": "Dermatología",
+      "direccion": "6a avenida 9-18 Zona 10, Edificio Sixtino 2, Cdad. de Guatemala 01010",
+      "telefono": "5630 5356",
+      "sitio_web": "",
+      "zona": "10",
+      "place_id": "ChIJp0b2lH-jiYURCULqIBFyUq8",
+      "fecha_recoleccion": "2026-08-12T08:36:01.891Z",
+      "keyword_usado": "dermatólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "DERMAQ Centro de dermatología especializada / Dra. Zonia Quijada",
+      "especialidad": "Dermatología",
+      "direccion": "Clinica 906 Edificio, sixtino II, 6A Avenida 9-18, Cdad. de Guatemala 01010",
+      "telefono": "5630 5356",
+      "sitio_web": "",
+      "zona": "10",
+      "place_id": "ChIJmUyIYACjiYURtJ4Wjs-HAW8",
+      "fecha_recoleccion": "2026-08-12T08:36:01.891Z",
+      "keyword_usado": "dermatólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dermatóloga Dra. Fabiola Herrera, Skinderma Guatemala",
+      "especialidad": "Dermatología",
+      "direccion": "Oficina 610, Edificio Clínicas Médicas La Paz, Torre de Parqueos, 10 calle 2-22, Cdad. de Guatemala 01014",
+      "telefono": "5554 2191",
+      "sitio_web": "https://skindermagt.my.canva.site/dermatologia?fbclid=IwY2xjawMtV5ZleHRuA2FlbQIxMABicmlkETFxckNTdGMxWDIzRDBUQWd2AR74DllWRNS4vcOkXPs3jG3r_JlfjAEuHXh1YEQVoiBgyPhtUFPJzWrArZg10A_aem_FEiEU6fSVYMy1muV7vXyiA",
+      "zona": "14",
+      "place_id": "ChIJnRz-PUyjiYURjGnjH0kDdDo",
+      "fecha_recoleccion": "2026-08-12T08:36:09.656Z",
+      "keyword_usado": "dermatólogo zona 14, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dermatóloga Dra. Rocío Sosa",
+      "especialidad": "Dermatología",
+      "direccion": "17 Avenida 205, Cdad. de Guatemala",
+      "telefono": "5922 7784",
+      "sitio_web": "",
+      "zona": "15",
+      "place_id": "ChIJ9ZBQDIGjiYURlQzhAiIWpPc",
+      "fecha_recoleccion": "2026-08-12T08:36:17.440Z",
+      "keyword_usado": "dermatólogo zona 15, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dermatología Adaclinik y Cirugia Dermatológica, zona 10, Guatemala Ciudad 01010. 30 años de experiencia.",
+      "especialidad": "Dermatología",
+      "direccion": "torre 1, 4to nivel, Edificio Renovati, 2 Calle 6 - 24, Cdad. de Guatemala 01010",
+      "telefono": "4549 7893",
+      "sitio_web": "",
+      "zona": "10",
+      "place_id": "ChIJxdxFsjejiYURM3cn_RC3W6s",
+      "fecha_recoleccion": "2026-08-12T08:36:01.891Z",
+      "keyword_usado": "dermatólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dermatólogo Dr. Rubén Darío Ríos Vergara",
+      "especialidad": "Dermatología",
+      "direccion": "Torre 1, clínica 1004, Edificio Renovati, 2 Calle 6-24, Cdad. de Guatemala 01010",
+      "telefono": "2315 8701",
+      "sitio_web": "https://drrubenriosderma.com/",
+      "zona": "10",
+      "place_id": "ChIJRZiEyLijiYURFiIavoAKefw",
+      "fecha_recoleccion": "2026-08-12T08:36:01.891Z",
+      "keyword_usado": "dermatólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "skin_care_clinic",
+        "medical_clinic",
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dermatólogo en Guatemala - ProPiel por Dra Dania De Silva",
+      "especialidad": "Dermatología",
+      "direccion": "JFQM+975 Hospital Santa Margarita, 11 Calle 3-52, Cdad. de Guatemala 10001",
+      "telefono": "3746 1164",
+      "sitio_web": "https://propielderma.com/",
+      "zona": "15",
+      "place_id": "ChIJJzRjweqjiYUR3QAU09lrk2g",
+      "fecha_recoleccion": "2026-08-12T08:36:17.440Z",
+      "keyword_usado": "dermatólogo zona 15, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "skin_care_clinic",
+        "doctor",
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dermos",
+      "especialidad": "Dermatología",
+      "direccion": "2a Calle 25-19, zona 15 V.H.1. Clínica 1211, Edificio Multimedica, Blvd. Vista Hermosa, Ciudad de Guatemala 01015",
+      "telefono": "2312 7900",
+      "sitio_web": "http://www.dermos.net/",
+      "zona": "15",
+      "place_id": "ChIJw9VmnHajiYUR-q1fpjqEhMg",
+      "fecha_recoleccion": "2026-08-12T08:36:17.440Z",
+      "keyword_usado": "dermatólogo zona 15, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "skin_care_clinic",
+      "tipos_google": [
+        "skin_care_clinic",
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Doctor Jorge Najarro Assardo",
+      "especialidad": "Neurología",
+      "direccion": "10 calle 2-45, Cdad. de Guatemala",
+      "telefono": "2363 5408",
+      "sitio_web": "http://www.neurocirugianajarro.com/",
+      "zona": "14",
+      "place_id": "ChIJDQwlG8mjiYURLApgx1NrR_E",
+      "fecha_recoleccion": "2026-08-12T08:37:12.884Z",
+      "keyword_usado": "neurólogo zona 14, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Doctor José Carlos Alburez García",
+      "especialidad": "Cardiología",
+      "direccion": "13 calle 1-10, zona 10 Edificio Dubai Center Nivel 9 - Oficina 906 Guatemala, Cdad. de Guatemala 01010",
+      "telefono": "2234 5966",
+      "sitio_web": "",
+      "zona": "10",
+      "place_id": "ChIJFznPlhijiYURb57f78YkJ_A",
+      "fecha_recoleccion": "2026-08-12T08:35:06.292Z",
+      "keyword_usado": "cardiólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr Estuardo Cifuentes Montenegro",
+      "especialidad": "Ginecología",
+      "direccion": "zona 10 Edificio, Sixtino I, 6A Avenida 6-63, Cdad. de Guatemala 01010",
+      "telefono": "2278 3965",
+      "sitio_web": "http://doccifuentes.com/",
+      "zona": "10",
+      "place_id": "ChIJ407qasmjiYURwUfNcIEb8dg",
+      "fecha_recoleccion": "2026-08-12T08:36:41.375Z",
+      "keyword_usado": "ginecólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr Francisco Estrada Ligorria",
+      "especialidad": "Ginecología",
+      "direccion": "11 Avenida 11-30, Cdad. de Guatemala",
+      "telefono": "2251 3441",
+      "sitio_web": "",
+      "zona": "1",
+      "place_id": "ChIJPdPgBRWiiYUR17bH_OuP-mw",
+      "fecha_recoleccion": "2026-08-12T08:36:25.279Z",
+      "keyword_usado": "ginecólogo zona 1, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr Fredy Bolaños",
+      "especialidad": "Pediatría",
+      "direccion": "14 Calle B 13-42, Cdad. de Guatemala 01010",
+      "telefono": "2363 4345",
+      "sitio_web": "",
+      "zona": "10",
+      "place_id": "ChIJUZM97PGjiYURysEkfeSUZl0",
+      "fecha_recoleccion": "2026-08-12T08:35:37.802Z",
+      "keyword_usado": "pediatra zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr Luis Francisco Sanjose Padilla",
+      "especialidad": "Ginecología",
+      "direccion": "3 Calle 1-54, Cdad. de Guatemala",
+      "telefono": "2362 3745",
+      "sitio_web": "",
+      "zona": "1",
+      "place_id": "ChIJ5RlLASujiYUROloRm2RUmi8",
+      "fecha_recoleccion": "2026-08-12T08:36:25.279Z",
+      "keyword_usado": "ginecólogo zona 1, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_clinic",
+      "tipos_google": [
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr Otto Urrutia | Dermatología",
+      "especialidad": "Dermatología",
+      "direccion": "Edificio Prospere Clinica 1002, 10A Calle A, Cdad. de Guatemala 00000",
+      "telefono": "2221 4299",
+      "sitio_web": "https://www.drottoderma.com/",
+      "zona": "14",
+      "place_id": "ChIJlQTL7q6jiYURcpV_2nKgDfs",
+      "fecha_recoleccion": "2026-08-12T08:36:09.656Z",
+      "keyword_usado": "dermatólogo zona 14, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr. Alan Barrientos",
+      "especialidad": "Neurología",
+      "direccion": "Euro Plaza, Torre 2, Euro Plaza Business Center, 5 Avenida 5-55, Cdad. de Guatemala 01014",
+      "telefono": "2226 3232",
+      "sitio_web": "http://www.clinep.com/",
+      "zona": "14",
+      "place_id": "ChIJBTKizemjiYUREglBQqx3JgU",
+      "fecha_recoleccion": "2026-08-12T08:37:12.884Z",
+      "keyword_usado": "neurólogo zona 14, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr. ARTURO HERRERA CASTILLO",
+      "especialidad": "Pediatría",
+      "direccion": "JFMP+Q7W, 6A Avenida A, Cdad. de Guatemala",
+      "telefono": "",
+      "sitio_web": "",
+      "zona": "1",
+      "place_id": "ChIJoXTByiajiYURU24aF1RWK8k",
+      "fecha_recoleccion": "2026-08-12T08:35:21.951Z",
+      "keyword_usado": "pediatra zona 1, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr. Arturo Herrera Pediatra",
+      "especialidad": "Pediatría",
+      "direccion": "Cdad. de Guatemala",
+      "telefono": "2230 5669",
+      "sitio_web": "",
+      "zona": "1",
+      "place_id": "ChIJmxv7ez2iiYUR0U9M-VS22oo",
+      "fecha_recoleccion": "2026-08-12T08:35:21.951Z",
+      "keyword_usado": "pediatra zona 1, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr. Billy Orellana - Neurólogo Pediatra",
+      "especialidad": "Neurología",
+      "direccion": "Clínica 509, 10A Calle 2-20, Cdad. de Guatemala 01014",
+      "telefono": "3003 7800",
+      "sitio_web": "https://drbillyorellana.mimedicogt.com/",
+      "zona": "14",
+      "place_id": "ChIJLzEDytqjiYURpqFVjwRHZ0w",
+      "fecha_recoleccion": "2026-08-12T08:37:12.884Z",
+      "keyword_usado": "neurólogo zona 14, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr. Carlos Scheel - Pediatra y Neonatólogo",
+      "especialidad": "Pediatría",
+      "direccion": "9a. Calle 4-52 zona 10, Edificio Integra Medical Center, Clínica #203 Guatemala, Cdad. de Guatemala 01010",
+      "telefono": "2279 0913",
+      "sitio_web": "",
+      "zona": "10",
+      "place_id": "ChIJb229NIyjiYURnr5tcBbAGWg",
+      "fecha_recoleccion": "2026-08-12T08:35:37.802Z",
+      "keyword_usado": "pediatra zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr. Carlos Villanueva Sáenz",
+      "especialidad": "Dermatología",
+      "direccion": "6A Avenida 04-01, Cdad. de Guatemala 01010",
+      "telefono": "2305 0300",
+      "sitio_web": "http://www.visapiel.com/",
+      "zona": "10",
+      "place_id": "ChIJq6pPQACjiYURhCBdcZjvuWU",
+      "fecha_recoleccion": "2026-08-12T08:36:01.891Z",
+      "keyword_usado": "dermatólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr. David Alejandro Yaxcal Chon",
+      "especialidad": "Neurología",
+      "direccion": "Oficina 1403, Edificio de Clínicas Las Américas, 10 calle 2-45, Cdad. de Guatemala",
+      "telefono": "2368 3644",
+      "sitio_web": "",
+      "zona": "14",
+      "place_id": "ChIJo0wcNMqjiYURTcKsdJrfIVI",
+      "fecha_recoleccion": "2026-08-12T08:37:12.884Z",
+      "keyword_usado": "neurólogo zona 14, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr. Diego Franco Neurólogo pediatra",
+      "especialidad": "Neurología",
+      "direccion": "6 avenida 3-22 Zona 10, capital nida 322, Ciudad de Guatemala 01010, Cdad. de Guatemala 01009",
+      "telefono": "3252 7542",
+      "sitio_web": "",
+      "zona": "10",
+      "place_id": "ChIJPdPGFQCjiYURc3B8SBEQUR0",
+      "fecha_recoleccion": "2026-08-12T08:37:05.004Z",
+      "keyword_usado": "neurólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr. Diego Rodríguez Llort ginecólogo y obstetra ultrasonido 5D embarazo",
+      "especialidad": "Ginecología",
+      "direccion": "6 Avenida 8-71 zona 10, clínicas Hospital Herrera Llerandi ala sur, clínica 5, Cdad. de Guatemala 01010",
+      "telefono": "2362 2293",
+      "sitio_web": "https://ultrasonido.gt/",
+      "zona": "10",
+      "place_id": "ChIJOdTWr12jiYURB_16HWR4CEA",
+      "fecha_recoleccion": "2026-08-12T08:36:41.375Z",
+      "keyword_usado": "ginecólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "hospital",
+        "medical_clinic",
+        "health",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr. Estuardo Carrera Brolo",
+      "especialidad": "Ginecología",
+      "direccion": "10 Calle 2-22, Cdad. de Guatemala 01009",
+      "telefono": "2337 3707",
+      "sitio_web": "",
+      "zona": "9",
+      "place_id": "ChIJp7mrOuyjiYURWHKHNrM9U4E",
+      "fecha_recoleccion": "2026-08-12T08:36:33.341Z",
+      "keyword_usado": "ginecólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr. Fabio Parada | Cardiólogo en Guatemala | Ecocardiograma y Holter",
+      "especialidad": "Cardiología",
+      "direccion": "oficina 506, Edificio HUB Reforma, 7a avenida A 09-67, Cdad. de Guatemala 01009",
+      "telefono": "3623 1963",
+      "sitio_web": "http://www.cardioenguate.com/",
+      "zona": "9",
+      "place_id": "ChIJiy1BaN6jiYURTvQKXwKvpMM",
+      "fecha_recoleccion": "2026-08-12T08:34:58.296Z",
+      "keyword_usado": "cardiólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr. Fernando Ceballos - Neurólogos, Clínica de Neurología y Medicina del Sueño of. 908 Medika 10, zona 10 Guatemala",
+      "especialidad": "Neurología",
+      "direccion": "Ofi 908, Edificio Medika 10, 6A Avenida 04-01, Cdad. de Guatemala 01010",
+      "telefono": "2283 0454",
+      "sitio_web": "http://www.neurologoguatemala.com/",
+      "zona": "10",
+      "place_id": "ChIJLSzE6jyjiYURx98_Rudcn40",
+      "fecha_recoleccion": "2026-08-12T08:37:05.004Z",
+      "keyword_usado": "neurólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr. Fernando Muralles - Cardiología Pediátrica",
+      "especialidad": "Cardiología",
+      "direccion": "Edificio Hub Reforma, 10 Calle 7-43, Cdad. de Guatemala 01009",
+      "telefono": "4482 6000",
+      "sitio_web": "",
+      "zona": "9",
+      "place_id": "ChIJaU-ZOZKjiYURMFY_JMPd5UE",
+      "fecha_recoleccion": "2026-08-12T08:34:58.296Z",
+      "keyword_usado": "cardiólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr. Guillermo Ovando",
+      "especialidad": "Pediatría",
+      "direccion": "2 Centro Medico san Angel, 13 Calle C 27-47, Cdad. de Guatemala",
+      "telefono": "3647 6436",
+      "sitio_web": "https://bio.site/dr.ovandopedia",
+      "zona": "7",
+      "place_id": "ChIJNelDpaShiYURIWANKIA7cn0",
+      "fecha_recoleccion": "2026-08-12T08:35:29.856Z",
+      "keyword_usado": "pediatra zona 7, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr. Guillermo Paz | Cardiólogo Pediatra",
+      "especialidad": "Cardiología",
+      "direccion": "6A Avenida 04-01, Zona 10. Edificio Medika 10, clinica 602, Little Heroes, Cdad. de Guatemala 01010",
+      "telefono": "3082 7341",
+      "sitio_web": "https://www.findoctor.com/es-GT/doctores/guillermo-ivan-paz-lemus/acerca-de",
+      "zona": "10",
+      "place_id": "ChIJV2q_3iWjiYUR5911jH-y0Y4",
+      "fecha_recoleccion": "2026-08-12T08:35:06.292Z",
+      "keyword_usado": "cardiólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr. Herbert Aguilar - Clínica Especializada en Ginecología y Obstetricia en Sixtino 1, zona 10 Guatemala",
+      "especialidad": "Ginecología",
+      "direccion": "6ª Ave. 6-63 zona 10, Cdad. de Guatemala 01010",
+      "telefono": "2267 9198",
+      "sitio_web": "https://www.findoctor.com/doctores/herbert-aguilar",
+      "zona": "10",
+      "place_id": "ChIJTU9K-EWjiYURi1HWvS_R19o",
+      "fecha_recoleccion": "2026-08-12T08:36:41.375Z",
+      "keyword_usado": "ginecólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr. Jaime Eduardo Ramírez Taracena",
+      "especialidad": "Ginecología",
+      "direccion": "6 avenida 1-81 zona 14, edificio Burgo, Cdad. de Guatemala 01014",
+      "telefono": "2366 4328",
+      "sitio_web": "https://ycard.co/jaimeer",
+      "zona": "14",
+      "place_id": "ChIJMZdg6lqjiYUR1AdUMNfGvZE",
+      "fecha_recoleccion": "2026-08-12T08:36:49.190Z",
+      "keyword_usado": "ginecólogo zona 14, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr. Jaime Mora / Neurocirugia de Minima Invasion y Cirugia de Columna",
+      "especialidad": "Neurología",
+      "direccion": "clinica 201, Edificio Medico Las Brisas, 6A Avenida 7-39, Cdad. de Guatemala 01010",
+      "telefono": "2225 6750",
+      "sitio_web": "http://www.jaimemoraneurocirujano.com/",
+      "zona": "10",
+      "place_id": "ChIJN5kkGSijiYUR2Bc3p1I5fCM",
+      "fecha_recoleccion": "2026-08-12T08:37:05.004Z",
+      "keyword_usado": "neurólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr. Juan Alberto Paz- Neurocirugía Vascular / Anatomía Microquirúrgica",
+      "especialidad": "Neurología",
+      "direccion": "Edificio Médico Las Brisas, 6A 7-39, Clínica 304, Cdad. de Guatemala 01010",
+      "telefono": "4992 3157",
+      "sitio_web": "https://drjuanpaz.com.gt/",
+      "zona": "10",
+      "place_id": "ChIJ84ho-2jrG6MRC9yXAdKED1A",
+      "fecha_recoleccion": "2026-08-12T08:37:05.004Z",
+      "keyword_usado": "neurólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr. Juan Andrés Calderón Martínez",
+      "especialidad": "Neurología",
+      "direccion": "Consultorio 303 Edificio, Sixtino 2, 6 avenida 9-18, Cdad. de Guatemala 01010",
+      "telefono": "5615 0594",
+      "sitio_web": "",
+      "zona": "10",
+      "place_id": "ChIJEQj1XiejiYURCfQP_W7PM9A",
+      "fecha_recoleccion": "2026-08-12T08:37:05.004Z",
+      "keyword_usado": "neurólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr. Julio Lau | Clínica de Cáncer Ginecológico y Cáncer de Mama",
+      "especialidad": "Ginecología",
+      "direccion": "9 calle 4-52 zona 10, Integra Medical Center, Torre 2, Cdad. de Guatemala 01010",
+      "telefono": "2291 1800",
+      "sitio_web": "http://ginecologiacancer.com/",
+      "zona": "10",
+      "place_id": "ChIJ8QQnvpyjiYURTbTlOmCosRc",
+      "fecha_recoleccion": "2026-08-12T08:36:41.375Z",
+      "keyword_usado": "ginecólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr. Luis Lainez",
+      "especialidad": "Ginecología",
+      "direccion": "4 calle 7-53, zona 9, clìnica 303, Edificio Torre Azul, Cdad. de Guatemala 01009",
+      "telefono": "4006 0904",
+      "sitio_web": "https://www.findoctor.com/es/doctores/luis-lainez-af5732db-b67f-4af9-9710-e76d671be2f9",
+      "zona": "9",
+      "place_id": "ChIJfRrsJ76jiYURLJ1dMhBc8eI",
+      "fecha_recoleccion": "2026-08-12T08:36:33.341Z",
+      "keyword_usado": "ginecólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr. Marco Rodas Díaz - Cardiólogo",
+      "especialidad": "Cardiología",
+      "direccion": "10 calle 6-40 zona 9 Salucentro, 3 Clínica 8, Cdad. de Guatemala 01009",
+      "telefono": "2496 6035",
+      "sitio_web": "https://www.cardiologoguatemala.com/",
+      "zona": "9",
+      "place_id": "ChIJKwGRF3mjiYURi77ejJ1nb30",
+      "fecha_recoleccion": "2026-08-12T08:34:58.296Z",
+      "keyword_usado": "cardiólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr. Mario López Hernández- Neurólogo",
+      "especialidad": "Neurología",
+      "direccion": "7a Avenida 9-64 zona 9 Edifico Zona Médica, Nivel 2 Ciudad, de, Cdad. de Guatemala 01009",
+      "telefono": "2258 6684",
+      "sitio_web": "https://drmariolopezhernandez.mimedicogt.com/?_ga=2.68134163.386604355.1667844797-1242601559.1626495593",
+      "zona": "9",
+      "place_id": "ChIJH4DSgdmjiYURvv-U-Z8K704",
+      "fecha_recoleccion": "2026-08-12T08:36:57.072Z",
+      "keyword_usado": "neurólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr. Mauricio Longo, Neurocirujano y Cirujano de Columna en Guatemala Zona 10 y Zona 15- Neurocirugía Avanzada",
+      "especialidad": "Neurología",
+      "direccion": "Edificio Sixtino II, 6A Avenida 9-18, Cdad. de Guatemala 01010",
+      "telefono": "4658 2184",
+      "sitio_web": "https://www.findoctor.com/doctores/mauricio-longo-c",
+      "zona": "10",
+      "place_id": "ChIJnYtXbIKjiYURq_A8QIpbQQw",
+      "fecha_recoleccion": "2026-08-12T08:37:05.004Z",
+      "keyword_usado": "neurólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr. Miguel Cutz – Cardiólogo en Guatemala",
+      "especialidad": "Cardiología",
+      "direccion": "Clinica 1108, Edificio Medika 10, 6A Avenida, Cdad. de Guatemala 01010",
+      "telefono": "5535 2087",
+      "sitio_web": "http://cardiologomiguelcutz.com/",
+      "zona": "10",
+      "place_id": "ChIJg8Fh64KjiYURdhQlOXsrj48",
+      "fecha_recoleccion": "2026-08-12T08:35:06.292Z",
+      "keyword_usado": "cardiólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr. Oswaldo Antonio Rodas Juárez",
+      "especialidad": "Ginecología",
+      "direccion": "6 Avenida 1-81 Zona 14, Edificio Burgo, Cdad. de Guatemala 01014",
+      "telefono": "2366 4309",
+      "sitio_web": "https://ycard.co/droswaldorodas",
+      "zona": "14",
+      "place_id": "ChIJt3ajOQWjiYURk5Edvt9kPck",
+      "fecha_recoleccion": "2026-08-12T08:36:49.190Z",
+      "keyword_usado": "ginecólogo zona 14, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr. Ricardo Aguilar Oliva -CARDIA-",
+      "especialidad": "Cardiología",
+      "direccion": "Edificio Zona Médica, Torre1, Clínica 617, 7A Avenida 9-64, Cdad. de Guatemala 01009",
+      "telefono": "2214 4521",
+      "sitio_web": "",
+      "zona": "9",
+      "place_id": "ChIJo3rfU16jiYURgs_wDM6odio",
+      "fecha_recoleccion": "2026-08-12T08:34:58.296Z",
+      "keyword_usado": "cardiólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_clinic",
+      "tipos_google": [
+        "doctor",
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr. Salvador Aguilar | Cardiólogo en Guatemala",
+      "especialidad": "Cardiología",
+      "direccion": "6A Avenida 3-69, Cdad. de Guatemala 01010",
+      "telefono": "3018 8269",
+      "sitio_web": "",
+      "zona": "10",
+      "place_id": "ChIJX9OtfKajiYURVScWjJxnVhk",
+      "fecha_recoleccion": "2026-08-12T08:35:06.292Z",
+      "keyword_usado": "cardiólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr. Sergio Castañeda | Pediatra en Zona 11 Colonia Roosevelt",
+      "especialidad": "Pediatría",
+      "direccion": "7A Calle A 12-11, Cdad. de Guatemala 01011",
+      "telefono": "5157 6409",
+      "sitio_web": "",
+      "zona": "11",
+      "place_id": "ChIJKbfV--KhiYUR0JNrkNW4liU",
+      "fecha_recoleccion": "2026-08-12T08:35:45.777Z",
+      "keyword_usado": "pediatra zona 11, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "medical_clinic",
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr. Sergio Leal Ponce",
+      "especialidad": "Cardiología",
+      "direccion": "6A Avenida 7-39, Cdad. de Guatemala 01010",
+      "telefono": "2334 0163",
+      "sitio_web": "",
+      "zona": "10",
+      "place_id": "ChIJF-O8NoyjiYURID9ni1NbNAU",
+      "fecha_recoleccion": "2026-08-12T08:35:06.292Z",
+      "keyword_usado": "cardiólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dra Suellen Silva Lins Neuróloga",
+      "especialidad": "Neurología",
+      "direccion": "9 calle 4-52 zona 10, Edificio Integra Medical Center, 6to Nivel, Cdad. de Guatemala 01010",
+      "telefono": "2218 2929",
+      "sitio_web": "",
+      "zona": "10",
+      "place_id": "ChIJGcTKUu-jiYUR2Y6LEcMVQcs",
+      "fecha_recoleccion": "2026-08-12T08:37:05.004Z",
+      "keyword_usado": "neurólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dra. Adriana Fernández Letona, Dermatóloga Clínica y Estética en Guatemala - Renovati zona 10",
+      "especialidad": "Dermatología",
+      "direccion": "Ofi 306, Edificio Renovati, 2A Calle 6-24, Cdad. de Guatemala 01010",
+      "telefono": "3043 0034",
+      "sitio_web": "https://www.findoctor.com/doctores/adriana-fernandez-letona",
+      "zona": "10",
+      "place_id": "ChIJ61KXwZCjiYUR8h59V2nSiN8",
+      "fecha_recoleccion": "2026-08-12T08:36:01.891Z",
+      "keyword_usado": "dermatólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dra. Ana Lucía Diez, Pediatra y Neonatóloga en Guatemala",
+      "especialidad": "Pediatría",
+      "direccion": "9a. Calle 4-52 zona 10 Edificio Integra Medical Center, Clínica 312-313, torre 2, Cdad. de Guatemala 01010",
+      "telefono": "2296 8020",
+      "sitio_web": "https://www.findoctor.com/es/doctores/ana-lucia-diez",
+      "zona": "10",
+      "place_id": "ChIJr9kvuCWjiYURJBc18kMETsE",
+      "fecha_recoleccion": "2026-08-12T08:35:37.802Z",
+      "keyword_usado": "pediatra zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dra. Andrea Trustham: Dermatóloga & Dr. Roberto Salazar: Dermatólogo.",
+      "especialidad": "Dermatología",
+      "direccion": "6A Avenida 9-18 Edificio Sixtino II, Clinica 602 Ala 2, Cdad. de Guatemala 01010",
+      "telefono": "3399 9972",
+      "sitio_web": "http://sites.google.com/view/dermatologosenguatemala/home?authuser=2",
+      "zona": "10",
+      "place_id": "ChIJMwIhp9yjiYURal9Rv-tRmY0",
+      "fecha_recoleccion": "2026-08-12T08:36:01.891Z",
+      "keyword_usado": "dermatólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dra. Beatriz Eugenia Domínguez Mendez",
+      "especialidad": "Cardiología",
+      "direccion": "Ofi 214, Edificio Integra Medical Center, Torre 2, 9A Calle 4-52, Cdad. de Guatemala 01010",
+      "telefono": "2296 8086",
+      "sitio_web": "",
+      "zona": "10",
+      "place_id": "ChIJwSoSdSejiYURlImbKTy1LLk",
+      "fecha_recoleccion": "2026-08-12T08:35:06.292Z",
+      "keyword_usado": "cardiólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dra. Ethel Duque Zona 1",
+      "especialidad": "Ginecología",
+      "direccion": "8 calle 11-13 zona 1, clínica 209, Edificio Recinos, Cdad. de Guatemala 01001",
+      "telefono": "3031 6830",
+      "sitio_web": "https://www.findoctor.com/es/doctores/dra-ethel-duque",
+      "zona": "1",
+      "place_id": "ChIJuVsKtzujiYURCPLliW9q6ps",
+      "fecha_recoleccion": "2026-08-12T08:36:25.279Z",
+      "keyword_usado": "ginecólogo zona 1, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "DRA. EVELYN VILLAFUERTE DE FLORES - DERMATÓLOGA",
+      "especialidad": "Dermatología",
+      "direccion": "Boulevard Vista Hermosa 25-19 zona 15, Blvd. Vista Hermosa 25-19, Cdad. de Guatemala 01010",
+      "telefono": "5543 2097",
+      "sitio_web": "https://draevelyndeflores.mimedicogt.com/",
+      "zona": "15",
+      "place_id": "ChIJIbgPOtajiYURwcdrxzkMAvg",
+      "fecha_recoleccion": "2026-08-12T08:36:17.440Z",
+      "keyword_usado": "dermatólogo zona 15, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dra. Faby Rodríguez | Pediatra Neonatóloga",
+      "especialidad": "Pediatría",
+      "direccion": "5to, clínica 505, Edificio Medika 10, Nivel 04-01, Cdad. de Guatemala 01010",
+      "telefono": "3006 5619",
+      "sitio_web": "",
+      "zona": "10",
+      "place_id": "ChIJMXoSvHijiYURoTXVFqPTnhw",
+      "fecha_recoleccion": "2026-08-12T08:35:37.802Z",
+      "keyword_usado": "pediatra zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dra. Gabriela Vásquez Ginecologa",
+      "especialidad": "Ginecología",
+      "direccion": "interior del centro medico la aurora, 4A Avenida 12-46, Cdad. de Guatemala 01009",
+      "telefono": "3031 1998",
+      "sitio_web": "https://ginecobstetriciagt.com/",
+      "zona": "9",
+      "place_id": "ChIJ4bQXnm6hiYURQVpgcFiYKVM",
+      "fecha_recoleccion": "2026-08-12T08:36:33.341Z",
+      "keyword_usado": "ginecólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dra. Gabriela Zetina Alvarado - Dermatóloga en Guatemala - DermoMédica",
+      "especialidad": "Dermatología",
+      "direccion": "Clínica 306, Edificio Renovati, 2a. calle 6-24, Cdad. de Guatemala 01010",
+      "telefono": "2315 8569",
+      "sitio_web": "https://www.findoctor.com/doctores/gabriela-zetina",
+      "zona": "10",
+      "place_id": "ChIJvXdGLnCjiYUREhrGUjtM5w8",
+      "fecha_recoleccion": "2026-08-12T08:36:01.891Z",
+      "keyword_usado": "dermatólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dra. Griselda Quijada",
+      "especialidad": "Ginecología",
+      "direccion": "Oficina 806, Edificio Prospere 14, 10 calle 02-30, Cdad. de Guatemala 01014",
+      "telefono": "2508 0618",
+      "sitio_web": "https://dragriseldaquijada.com/",
+      "zona": "14",
+      "place_id": "ChIJM6b7E2qjiYURF2DCymGn5xM",
+      "fecha_recoleccion": "2026-08-12T08:36:49.190Z",
+      "keyword_usado": "ginecólogo zona 14, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dra. Isabella Torselli",
+      "especialidad": "Ginecología",
+      "direccion": "of. 515, Edificio Vasanta, 6 Avenida 3-67, Cdad. de Guatemala 01010",
+      "telefono": "5922 0308",
+      "sitio_web": "http://www.isabellatorselli.com/",
+      "zona": "10",
+      "place_id": "ChIJmVLyE16jiYUROlvqFg960-8",
+      "fecha_recoleccion": "2026-08-12T08:36:41.375Z",
+      "keyword_usado": "ginecólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dra. Jessica Amarra/Ginecóloga y Obstetra",
+      "especialidad": "Ginecología",
+      "direccion": "5to, clinica 504, Edificio Prospere, 10A Calle 2-30, Cdad. de Guatemala 01014",
+      "telefono": "5922 6789",
+      "sitio_web": "",
+      "zona": "14",
+      "place_id": "ChIJ-SsVcx6jiYURvcnnO_XY-q4",
+      "fecha_recoleccion": "2026-08-12T08:36:49.190Z",
+      "keyword_usado": "ginecólogo zona 14, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dra. Karem Morales Ginecóloga",
+      "especialidad": "Ginecología",
+      "direccion": "13 Calle 5-31, Cdad. de Guatemala 01009",
+      "telefono": "2211 5640",
+      "sitio_web": "https://ginecologiadeguatemala.com/",
+      "zona": "9",
+      "place_id": "ChIJ94kLcgCjiYURu9IhCgqmoSU",
+      "fecha_recoleccion": "2026-08-12T08:36:33.341Z",
+      "keyword_usado": "ginecólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dra. Katherine Klussmann - Kathy Derma",
+      "especialidad": "Dermatología",
+      "direccion": "9 calle 4-52, Zona 10, Edificio Integra, Torre 1, Cdad. de Guatemala 01010",
+      "telefono": "4689 5757",
+      "sitio_web": "https://www.kathyderma.com/",
+      "zona": "10",
+      "place_id": "ChIJ662Uyv2jiYURWLEzqIqlwtk",
+      "fecha_recoleccion": "2026-08-12T08:36:01.891Z",
+      "keyword_usado": "dermatólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dra. Maribel Cortez - Pediatra en Zona 10 Guatemala",
+      "especialidad": "Pediatría",
+      "direccion": "18 Ave. \"A\" 20-73 zona 10 Neuromédica, Cdad. de Guatemala 01010",
+      "telefono": "2293 6365",
+      "sitio_web": "https://www.findoctor.com/doctores/maribel-cortez",
+      "zona": "10",
+      "place_id": "ChIJU5tG2jWjiYURbCoydjHmCPE",
+      "fecha_recoleccion": "2026-08-12T08:35:37.802Z",
+      "keyword_usado": "pediatra zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dra. Marielos L. Figueredo",
+      "especialidad": "Dermatología",
+      "direccion": "Sixtino II, 6A Avenida 9-18, Cdad. de Guatemala 01010",
+      "telefono": "5482 5062",
+      "sitio_web": "",
+      "zona": "10",
+      "place_id": "ChIJhwLnp4mjiYURATP0EEbKIpM",
+      "fecha_recoleccion": "2026-08-12T08:36:01.891Z",
+      "keyword_usado": "dermatólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dra. Martha Evelyn Perez Barrios",
+      "especialidad": "Ginecología",
+      "direccion": "6 calle y 5 Av 4-17 Z 1 Edif Tikal, Clínica 814, Torre Norte, Cdad. de Guatemala 01001",
+      "telefono": "4007 3807",
+      "sitio_web": "https://www.paginasamarillas.com.gt/empresas/dra-martha-evelyn-perez-barrios/guatemala-30177688?ad=80613709",
+      "zona": "1",
+      "place_id": "ChIJjTNM_QGjiYUR2nf4Soy_QYU",
+      "fecha_recoleccion": "2026-08-12T08:36:25.279Z",
+      "keyword_usado": "ginecólogo zona 1, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dra. Maureen Barahona, Dermatología",
+      "especialidad": "Dermatología",
+      "direccion": "10 calle 2-30, Edificio Prospere 14, Cdad. de Guatemala",
+      "telefono": "3393 2650",
+      "sitio_web": "",
+      "zona": "14",
+      "place_id": "ChIJQUR4PsmjiYURXrGQyRrK2M0",
+      "fecha_recoleccion": "2026-08-12T08:36:09.656Z",
+      "keyword_usado": "dermatólogo zona 14, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dra. Mercy Pediatra",
+      "especialidad": "Pediatría",
+      "direccion": "Cdad. de Guatemala",
+      "telefono": "4757 0057",
+      "sitio_web": "https://dramercypediatra.com/",
+      "zona": "7",
+      "place_id": "ChIJp08zc4mgiYURp7r8QZ8vGgk",
+      "fecha_recoleccion": "2026-08-12T08:35:29.856Z",
+      "keyword_usado": "pediatra zona 7, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_clinic",
+      "tipos_google": [
+        "medical_clinic",
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dra. Miriam Gardene Bethancourt de Najarro",
+      "especialidad": "Ginecología",
+      "direccion": "15-45, 5 Avenida 1003, Cdad. de Guatemala 01010",
+      "telefono": "5923 1779",
+      "sitio_web": "http://www.medicos-guatemala.com/dra-miriam-gardene-bethancourt-de-najarro/",
+      "zona": "10",
+      "place_id": "ChIJPTZAEcSjiYURwM_zCCnVcU0",
+      "fecha_recoleccion": "2026-08-12T08:36:41.375Z",
+      "keyword_usado": "ginecólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dra. Mirna Aldana",
+      "especialidad": "Dermatología",
+      "direccion": "4 Avenida 15-73, Cdad. de Guatemala 01010",
+      "telefono": "5516 4453",
+      "sitio_web": "",
+      "zona": "10",
+      "place_id": "ChIJATZyfqqjiYURM8NXC5_C0ac",
+      "fecha_recoleccion": "2026-08-12T08:36:01.891Z",
+      "keyword_usado": "dermatólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dra. Mylene Mejía - My VitalSkin",
+      "especialidad": "Dermatología",
+      "direccion": "6ta Avenida 7-39 zona 10, Edificio Las Brisas, 4to nivel, oficina, Cdad. de Guatemala 01010",
+      "telefono": "3801 3259",
+      "sitio_web": "https://wa.me/50238013259",
+      "zona": "10",
+      "place_id": "ChIJU_OmNYijiYURyKAy8LSw6UM",
+      "fecha_recoleccion": "2026-08-12T08:36:01.891Z",
+      "keyword_usado": "dermatólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "skin_care_clinic",
+      "tipos_google": [
+        "skin_care_clinic",
+        "medical_clinic",
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dra. Rosmin Marroquín Remón",
+      "especialidad": "Dermatología",
+      "direccion": "Cdad. de Guatemala 01009",
+      "telefono": "",
+      "sitio_web": "https://rmrdermatologia.com/",
+      "zona": "9",
+      "place_id": "ChIJmfIJYt6jiYURGurrdB9V9ao",
+      "fecha_recoleccion": "2026-08-12T08:35:53.806Z",
+      "keyword_usado": "dermatólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dra. Silvia Arana - Pediatra",
+      "especialidad": "Pediatría",
+      "direccion": "11 Calle, Cdad. de Guatemala 01001",
+      "telefono": "4559 9608",
+      "sitio_web": "http://www.drasilviaarana.com/",
+      "zona": "1",
+      "place_id": "ChIJjSoyNV6jiYURyqdLxRAF5V0",
+      "fecha_recoleccion": "2026-08-12T08:35:21.951Z",
+      "keyword_usado": "pediatra zona 1, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_clinic",
+      "tipos_google": [
+        "medical_clinic",
+        "doctor",
+        "health",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dra. Silvia Liuti Brolo",
+      "especialidad": "Ginecología",
+      "direccion": "5A Avenida 8-44, Cdad. de Guatemala 01009",
+      "telefono": "2221 6539",
+      "sitio_web": "https://drasilvialiuti.com/",
+      "zona": "9",
+      "place_id": "ChIJR90IYV-jiYURIJgHP_BWUa4",
+      "fecha_recoleccion": "2026-08-12T08:36:33.341Z",
+      "keyword_usado": "ginecólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dra. Yubisa Montenegro (ginecóloga y obstetra)",
+      "especialidad": "Ginecología",
+      "direccion": "12 calle 5-31 zona 9, Trabajo Ascend, Cdad. de Guatemala 01009",
+      "telefono": "3106 9688",
+      "sitio_web": "https://miginegt.my.canva.site/clinica-de-la-mujer",
+      "zona": "9",
+      "place_id": "ChIJoVTn4QqjiYURmViWS4-i2PE",
+      "fecha_recoleccion": "2026-08-12T08:36:33.341Z",
+      "keyword_usado": "ginecólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dra.Paula Morales",
+      "especialidad": "Pediatría",
+      "direccion": "5 Av 1, Cdad. de Guatemala",
+      "telefono": "2253 2455",
+      "sitio_web": "",
+      "zona": "1",
+      "place_id": "ChIJOSdFmuajiYURFEk57faxR0g",
+      "fecha_recoleccion": "2026-08-12T08:35:21.951Z",
+      "keyword_usado": "pediatra zona 1, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "ESPECIALISTA EN NEUROLOGIA",
+      "especialidad": "Neurología",
+      "direccion": "JF3M+XHX, Avenida La Reforma, Cdad. de Guatemala 01009",
+      "telefono": "",
+      "sitio_web": "",
+      "zona": "9",
+      "place_id": "ChIJt0tXG86jiYURka5TF0STuhI",
+      "fecha_recoleccion": "2026-08-12T08:36:57.072Z",
+      "keyword_usado": "neurólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Femme Care, ginecologa Mildred Me",
+      "especialidad": "Ginecología",
+      "direccion": "Of 801, Edificio de clínicas médicas de las americas, 10 calle 2-45, Cdad. de Guatemala 01014",
+      "telefono": "5628 7487",
+      "sitio_web": "http://femmecare.info/",
+      "zona": "14",
+      "place_id": "ChIJ243xGfOjiYURKaHMwydGdc8",
+      "fecha_recoleccion": "2026-08-12T08:36:49.190Z",
+      "keyword_usado": "ginecólogo zona 14, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Ginecologa Guatemala",
+      "especialidad": "Ginecología",
+      "direccion": "2 Calle 06-24,Cdad. de Guatemala Edificio Renovati zona 10, Cdad. de Guatemala 01010",
+      "telefono": "4993 5892",
+      "sitio_web": "http://www.ginecologia.gt/",
+      "zona": "10",
+      "place_id": "ChIJKUOaR-OjiYURwQnrSlyBNI4",
+      "fecha_recoleccion": "2026-08-12T08:36:41.375Z",
+      "keyword_usado": "ginecólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Ginecologa Guatemala",
+      "especialidad": "Ginecología",
+      "direccion": "sixtino 2 local 805, guatemala ciudad 01010",
+      "telefono": "5359 9723",
+      "sitio_web": "http://www.ginecologia.gt/",
+      "zona": "10",
+      "place_id": "ChIJjaxi3h2jiYURcfTG7QgmmoI",
+      "fecha_recoleccion": "2026-08-12T08:36:41.375Z",
+      "keyword_usado": "ginecólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Ginecóloga y Obstetra Dra. Iris Gonzalez",
+      "especialidad": "Ginecología",
+      "direccion": "6a av. 4-01 zona 10, Clínica 401, Edificio Medika 10, Cdad. de Guatemala 01010",
+      "telefono": "5417 7610",
+      "sitio_web": "http://www.drairisgonzalez.com/",
+      "zona": "10",
+      "place_id": "ChIJkdqk4u6jiYURaSgYVn-Jhfo",
+      "fecha_recoleccion": "2026-08-12T08:36:41.375Z",
+      "keyword_usado": "ginecólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_clinic",
+      "tipos_google": [
+        "medical_clinic",
+        "health",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Ginecologa y Obstetra Dra. Luisa Gaytan",
+      "especialidad": "Ginecología",
+      "direccion": "6A Avenida, Cdad. de Guatemala 01010",
+      "telefono": "4993 5892",
+      "sitio_web": "http://www.ginecologia.gt/",
+      "zona": "10",
+      "place_id": "ChIJu2PZPcmjiYUR6En6-T2gIXM",
+      "fecha_recoleccion": "2026-08-12T08:36:41.375Z",
+      "keyword_usado": "ginecólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Ginecologia de Guatemala",
+      "especialidad": "Ginecología",
+      "direccion": "4A Avenida 15-73, Cdad. de Guatemala 01010",
+      "telefono": "2367 6188",
+      "sitio_web": "http://www.ginecologiadeguatemala.com/",
+      "zona": "10",
+      "place_id": "ChIJNaAvsCKiiYURNFF7SaDMrRU",
+      "fecha_recoleccion": "2026-08-12T08:36:41.375Z",
+      "keyword_usado": "ginecólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Ginecologia Dra Luisa Gaytan Pontaza",
+      "especialidad": "Ginecología",
+      "direccion": "Ofi 804, Edificio Renovati torre I, 2 Calle 6-24, Cdad. de Guatemala 01010",
+      "telefono": "4993 5892",
+      "sitio_web": "http://www.ginecologia.gt/",
+      "zona": "10",
+      "place_id": "ChIJh1kbP8mjiYURFSTdTgWH8w8",
+      "fecha_recoleccion": "2026-08-12T08:36:41.375Z",
+      "keyword_usado": "ginecólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Ginecólogo Estuardo Palencia",
+      "especialidad": "Ginecología",
+      "direccion": "oficina 331, Edificio Ascend, 13 Calle 04-31, Cdad. de Guatemala 01009",
+      "telefono": "2230 6521",
+      "sitio_web": "http://www.ginecologoestuardo.com/",
+      "zona": "9",
+      "place_id": "ChIJH00gNWejiYUR1CACcyB4ndo",
+      "fecha_recoleccion": "2026-08-12T08:36:33.341Z",
+      "keyword_usado": "ginecólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "service",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Ginecólogo Guatemala Dr. Carlos Turcios",
+      "especialidad": "Ginecología",
+      "direccion": "EDIFICIO ZONA MEDICA, 7A Avenida 9-64, Cdad. de Guatemala 01009",
+      "telefono": "3077 9153",
+      "sitio_web": "",
+      "zona": "9",
+      "place_id": "ChIJaZvQx5ajiYUR2Nua8-UF6U4",
+      "fecha_recoleccion": "2026-08-12T08:36:33.341Z",
+      "keyword_usado": "ginecólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "medical_clinic",
+        "doctor",
+        "service",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "GRUPO PEDIATRICO, ZONA 11",
+      "especialidad": "Pediatría",
+      "direccion": "INT. PARQUE COMERCIAL LAS MAJADAS, 26 Av. 5-90, Cdad. de Guatemala 99999",
+      "telefono": "2380 9924",
+      "sitio_web": "",
+      "zona": "11",
+      "place_id": "ChIJ-Rad2a2hiYURsbaOVUJHEag",
+      "fecha_recoleccion": "2026-08-12T08:35:45.777Z",
+      "keyword_usado": "pediatra zona 11, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "GyneMedical Dra. Fuentes",
+      "especialidad": "Ginecología",
+      "direccion": "Edificio Narama, clínica 326, 15 Avenida 16-14, Cdad. de Guatemala",
+      "telefono": "5953 4306",
+      "sitio_web": "",
+      "zona": "14",
+      "place_id": "ChIJ71my2zWjiYURbIUaKerCuKI",
+      "fecha_recoleccion": "2026-08-12T08:36:49.190Z",
+      "keyword_usado": "ginecólogo zona 14, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "GynOb - Clínica Ginecológica, Dra. Lesli León",
+      "especialidad": "Ginecología",
+      "direccion": "6a avenida 04-01 zona 10 MEDIKA 10, 7° nivel, clínica 709, Cdad. de Guatemala 01010",
+      "telefono": "2283 0405",
+      "sitio_web": "https://gynobgt.com/",
+      "zona": "10",
+      "place_id": "ChIJDz_DaLyjiYUR8rAhsDltQVw",
+      "fecha_recoleccion": "2026-08-12T08:36:41.375Z",
+      "keyword_usado": "ginecólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "medical_clinic",
+        "health",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Hospital Ángeles",
+      "especialidad": "Cardiología",
+      "direccion": "2A Av. 14-74, Cdad. de Guatemala 01001",
+      "telefono": "2505 8200",
+      "sitio_web": "http://www.hospitalangeles.com.gt/",
+      "zona": "1",
+      "place_id": "ChIJYTEGdCKiiYURrF8UYl9TU4Q",
+      "fecha_recoleccion": "2026-08-12T08:34:50.291Z",
+      "keyword_usado": "cardiólogo zona 1, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "hospital",
+      "tipos_google": [
+        "hospital",
+        "health",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Hospital El Pilar",
+      "especialidad": "Neurología",
+      "direccion": "3ra. Calle 10-71, Cdad. de Guatemala",
+      "telefono": "2279 5000",
+      "sitio_web": "https://elpilar.gt/",
+      "zona": "15",
+      "place_id": "ChIJUfLu4LKjiYURFN9K377Zt_4",
+      "fecha_recoleccion": "2026-08-12T08:37:20.722Z",
+      "keyword_usado": "neurólogo zona 15, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "hospital",
+      "tipos_google": [
+        "hospital",
+        "health",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Hospital Esperanza",
+      "especialidad": "Neurología",
+      "direccion": "6 Avenida 7-49, Cdad. de Guatemala 01010",
+      "telefono": "2415 9000",
+      "sitio_web": "http://www.hospitalesperanza.com/",
+      "zona": "10",
+      "place_id": "ChIJoaJ8gcmjiYUR6ufNs8MwJeQ",
+      "fecha_recoleccion": "2026-08-12T08:37:05.004Z",
+      "keyword_usado": "neurólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "hospital",
+      "tipos_google": [
+        "hospital",
+        "medical_clinic",
+        "doctor",
+        "health",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Hospital Herrera Llerandi",
+      "especialidad": "Neurología",
+      "direccion": "6A Avenida 8-71, Cdad. de Guatemala 01010",
+      "telefono": "2384 5959",
+      "sitio_web": "https://www.herrerallerandi.com/",
+      "zona": "10",
+      "place_id": "ChIJpWyCZcmjiYURAqvPuqiZMCI",
+      "fecha_recoleccion": "2026-08-12T08:37:05.004Z",
+      "keyword_usado": "neurólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "hospital",
+      "tipos_google": [
+        "hospital",
+        "health",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Hospital Infantil de Infectologia y rehabilitacion",
+      "especialidad": "Pediatría",
+      "direccion": "JF74+86Q, 9 Avenida, Cdad. de Guatemala",
+      "telefono": "2247 3800",
+      "sitio_web": "",
+      "zona": "11",
+      "place_id": "ChIJfcnNjp-hiYURrN3MUA1F4S0",
+      "fecha_recoleccion": "2026-08-12T08:35:45.777Z",
+      "keyword_usado": "pediatra zona 11, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "hospital",
+      "tipos_google": [
+        "hospital",
+        "service",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Hospital MediCuidados",
+      "especialidad": "Pediatría",
+      "direccion": "Tikal II, 33 Avenida A 7-20, Cdad. de Guatemala 01007",
+      "telefono": "2429 7400",
+      "sitio_web": "https://hospitalmedicuidados.com/",
+      "zona": "7",
+      "place_id": "ChIJycx3dByhiYURQB6_B3FQJng",
+      "fecha_recoleccion": "2026-08-12T08:35:29.856Z",
+      "keyword_usado": "pediatra zona 7, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "hospital",
+      "tipos_google": [
+        "hospital",
+        "health",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Hospital Multimédica",
+      "especialidad": "Neurología",
+      "direccion": "Blvd. Vista Hermosa 25-19, Cdad. de Guatemala",
+      "telefono": "2231 8100",
+      "sitio_web": "https://www.hospitalmultimedica.com/",
+      "zona": "15",
+      "place_id": "ChIJ664inHajiYURjyWm9Rikv_0",
+      "fecha_recoleccion": "2026-08-12T08:37:20.722Z",
+      "keyword_usado": "neurólogo zona 15, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "hospital",
+      "tipos_google": [
+        "hospital",
+        "health",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Hospital Promesa",
+      "especialidad": "Ginecología",
+      "direccion": "8A Avenida 2-24, Cdad. de Guatemala",
+      "telefono": "2220 1534",
+      "sitio_web": "",
+      "zona": "1",
+      "place_id": "ChIJKzwDDxKiiYUR6LVE8NddBGI",
+      "fecha_recoleccion": "2026-08-12T08:36:25.279Z",
+      "keyword_usado": "ginecólogo zona 1, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "hospital",
+      "tipos_google": [
+        "medical_lab",
+        "consultant",
+        "doctor",
+        "hospital",
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "IGSS Pediatría",
+      "especialidad": "Pediatría",
+      "direccion": "5A Avenida 879, Cdad. de Guatemala",
+      "telefono": "",
+      "sitio_web": "",
+      "zona": "11",
+      "place_id": "ChIJjaKa78OhiYURmQ7R4rhgkcE",
+      "fecha_recoleccion": "2026-08-12T08:35:45.777Z",
+      "keyword_usado": "pediatra zona 11, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "hospital",
+      "tipos_google": [
+        "hospital",
+        "service",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Instituto de Innovacion Cardiovascular GT, S.A.",
+      "especialidad": "Cardiología",
+      "direccion": "7a. Avenida 9-74 zona 9. Edificio Zona Médica, Clinica 317 Guatemala, Cdad. de Guatemala 01009",
+      "telefono": "2238 8100",
+      "sitio_web": "",
+      "zona": "9",
+      "place_id": "ChIJ2SfkKN2jiYURhjIN_be4ds4",
+      "fecha_recoleccion": "2026-08-12T08:34:58.296Z",
+      "keyword_usado": "cardiólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_clinic",
+      "tipos_google": [
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "K-derma.com.gt",
+      "especialidad": "Dermatología",
+      "direccion": "Edificio Hub Reforma, 7 Avenida A 9-67, Cdad. de Guatemala 01000",
+      "telefono": "2441 3149",
+      "sitio_web": "https://www.k-derma.com.gt/",
+      "zona": "9",
+      "place_id": "ChIJ_eI7LqujiYURndBZFwYvi1A",
+      "fecha_recoleccion": "2026-08-12T08:35:53.806Z",
+      "keyword_usado": "dermatólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Karla Esquivel Dermatólogo",
+      "especialidad": "Dermatología",
+      "direccion": "Edificio HUB, 7 Avenida A 09-67, Cdad. de Guatemala 01009",
+      "telefono": "2441 3149",
+      "sitio_web": "https://www.doctoranytime.gt/d/dermatologo/karla-esquivel?utm_source=gmb&utm_medium=organic&utm_campaign=profile",
+      "zona": "9",
+      "place_id": "ChIJh6KbL2KjiYURLzZUnVhKtuo",
+      "fecha_recoleccion": "2026-08-12T08:35:53.806Z",
+      "keyword_usado": "dermatólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Kiddo Center",
+      "especialidad": "Pediatría",
+      "direccion": "9-55, Edificio 10 oficina 608, Apartamentos Reforma, Avenida La Reforma, Cdad. de Guatemala 01010",
+      "telefono": "2339 3069",
+      "sitio_web": "http://www.kiddocenter.com/",
+      "zona": "10",
+      "place_id": "ChIJpVctPs6jiYUR80xshcernL8",
+      "fecha_recoleccion": "2026-08-12T08:35:37.802Z",
+      "keyword_usado": "pediatra zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "La Paz, Grupo Hospitalario - Zona 14",
+      "especialidad": "Neurología",
+      "direccion": "10A Calle 2-31 Ciudad de Ciudad de Guatemala, Cdad. de Guatemala 01014",
+      "telefono": "2217 0300",
+      "sitio_web": "http://hospitaleslapaz.com/",
+      "zona": "14",
+      "place_id": "ChIJg1FxquejiYURUHWKjOltATQ",
+      "fecha_recoleccion": "2026-08-12T08:37:12.884Z",
+      "keyword_usado": "neurólogo zona 14, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "hospital",
+      "tipos_google": [
+        "hospital",
+        "service",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Liga Guatemalteca Del Corazón",
+      "especialidad": "Cardiología",
+      "direccion": "14 Calle A 2-55, Cdad. de Guatemala",
+      "telefono": "2306 9600",
+      "sitio_web": "http://www.ligadelcorazon.org.gt/",
+      "zona": "1",
+      "place_id": "ChIJhTlhgyKiiYURDqz22bpeJMw",
+      "fecha_recoleccion": "2026-08-12T08:34:50.291Z",
+      "keyword_usado": "cardiólogo zona 1, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "hospital",
+      "tipos_google": [
+        "hospital",
+        "health",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Little Heroes Clínica Pediátrica",
+      "especialidad": "Pediatría",
+      "direccion": "Medika10, clínica 602, 6A Avenida 04-01, Cdad. de Guatemala 01010",
+      "telefono": "2283 0406",
+      "sitio_web": "",
+      "zona": "10",
+      "place_id": "ChIJuRNjFcGjiYURb09q_NxAKqY",
+      "fecha_recoleccion": "2026-08-12T08:35:37.802Z",
+      "keyword_usado": "pediatra zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "dentist",
+        "medical_clinic",
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Luisa Cuyun Pediatra",
+      "especialidad": "Pediatría",
+      "direccion": "Edificio Médico el Obelisco, Cdad. de Guatemala 01010",
+      "telefono": "3510 7009",
+      "sitio_web": "https://www.doctoranytime.gt/d/pediatra/luisa-cuyun?utm_source=gmb&utm_medium=organic&utm_campaign=profile",
+      "zona": "10",
+      "place_id": "ChIJD6acvYKjiYURSO4R2Cq0FiA",
+      "fecha_recoleccion": "2026-08-12T08:35:37.802Z",
+      "keyword_usado": "pediatra zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Medicentro Historico",
+      "especialidad": "Ginecología",
+      "direccion": "0-19 zona, 9A Calle 1, Cdad. de Guatemala",
+      "telefono": "",
+      "sitio_web": "",
+      "zona": "1",
+      "place_id": "ChIJES7S9xuiiYURtcpOUAiV_UI",
+      "fecha_recoleccion": "2026-08-12T08:36:25.279Z",
+      "keyword_usado": "ginecólogo zona 1, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "hospital",
+      "tipos_google": [
+        "hospital",
+        "health",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Médicos a Domicilio Gt",
+      "especialidad": "Neurología",
+      "direccion": "10a. Calle 2-45 Zona 14, Clínicas Medicas Las Americas, Cdad. de Guatemala 01014",
+      "telefono": "5969 5711",
+      "sitio_web": "https://www.medicosadomiciliogt.com/",
+      "zona": "14",
+      "place_id": "ChIJMS6YhqSjiYURsAqCyGacnVw",
+      "fecha_recoleccion": "2026-08-12T08:37:12.884Z",
+      "keyword_usado": "neurólogo zona 14, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Medifem GT",
+      "especialidad": "Ginecología",
+      "direccion": "JF3M+G33, 7a Avenida A, Cdad. de Guatemala 01009",
+      "telefono": "",
+      "sitio_web": "",
+      "zona": "9",
+      "place_id": "ChIJeVfPTgChiYURB28HPxcLvhk",
+      "fecha_recoleccion": "2026-08-12T08:36:33.341Z",
+      "keyword_usado": "ginecólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Mi Clínica Ginecológica Dr. Claudia De La Cruz",
+      "especialidad": "Ginecología",
+      "direccion": "6A Calle 7-77, Cdad. de Guatemala",
+      "telefono": "",
+      "sitio_web": "",
+      "zona": "1",
+      "place_id": "ChIJ1cmNUeejiYUR_qBVt0eFZic",
+      "fecha_recoleccion": "2026-08-12T08:36:25.279Z",
+      "keyword_usado": "ginecólogo zona 1, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Mi Pediatra Marce - Clínica Pediátrica",
+      "especialidad": "Pediatría",
+      "direccion": "11 Calle 3-52, Cdad. de Guatemala 01001",
+      "telefono": "3906 7062",
+      "sitio_web": "https://www.marcepedia.com/",
+      "zona": "1",
+      "place_id": "ChIJ4wPsePWjiYURRT0p-Jisp9I",
+      "fecha_recoleccion": "2026-08-12T08:35:21.951Z",
+      "keyword_usado": "pediatra zona 1, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "MiRARi",
+      "especialidad": "Ginecología",
+      "direccion": "9 Calle 4-52 Zona 10 Integra Medical Center, Clínica 517, Torre 2, Cdad. de Guatemala 01010",
+      "telefono": "2291 1800",
+      "sitio_web": "http://www.mirari.com.gt/",
+      "zona": "10",
+      "place_id": "ChIJM1LGX6ijiYURORqiqYHIOcU",
+      "fecha_recoleccion": "2026-08-12T08:36:41.375Z",
+      "keyword_usado": "ginecólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_clinic",
+      "tipos_google": [
+        "medical_clinic",
+        "health",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Neoderm Dermatologia & Cosmetica Guatemala",
+      "especialidad": "Dermatología",
+      "direccion": "6 ave 6-63 zona 10, edif. Sixtino of 1302-1304 Edificio, 6A Avenida 6-63, Cdad. de Guatemala 01010",
+      "telefono": "2278 9681",
+      "sitio_web": "http://www.neodermgt.com/",
+      "zona": "10",
+      "place_id": "ChIJGVAVx8ujiYURLt9piLF3EWI",
+      "fecha_recoleccion": "2026-08-12T08:36:01.891Z",
+      "keyword_usado": "dermatólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "skin_care_clinic",
+        "medical_clinic",
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Neumokids GT - Dr. Miguel González z10",
+      "especialidad": "Pediatría",
+      "direccion": "Clínica 403, Centro Médico II, Cdad. de Guatemala 01010",
+      "telefono": "4141 3893",
+      "sitio_web": "",
+      "zona": "10",
+      "place_id": "ChIJvckjegCjiYURHy0n478bc8U",
+      "fecha_recoleccion": "2026-08-12T08:35:37.802Z",
+      "keyword_usado": "pediatra zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Neurocentros- Clínicas Médicas Santa Clara",
+      "especialidad": "Neurología",
+      "direccion": "4A Avenida 15-73, Cdad. de Guatemala 01010",
+      "telefono": "2269 7237",
+      "sitio_web": "https://neurocentros.mimedicogt.com/",
+      "zona": "10",
+      "place_id": "ChIJ-4sOZ8SjiYURRt0X2DNmmKA",
+      "fecha_recoleccion": "2026-08-12T08:37:05.004Z",
+      "keyword_usado": "neurólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Neurocirugía Najarro",
+      "especialidad": "Neurología",
+      "direccion": "10 calle 2-45, zona 14, Clínicas Las Américas, Guatemala Nivel 9, Clinica 906 Guatemala City, Cdad. de Guatemala 01014",
+      "telefono": "2363 5408",
+      "sitio_web": "http://www.neurocirugianajarro.com/",
+      "zona": "14",
+      "place_id": "ChIJnwxLK-CjiYURIzHMGKe5Q8Y",
+      "fecha_recoleccion": "2026-08-12T08:37:12.884Z",
+      "keyword_usado": "neurólogo zona 14, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Neuróloga - Dra. Monica Alexandra González Alarcón",
+      "especialidad": "Neurología",
+      "direccion": "Edificio Multimédica, Boulevard Vista Hermosa 25-19 zona 15, Clínica 1009, Cdad. de Guatemala 01015",
+      "telefono": "2256 7950",
+      "sitio_web": "https://dramonicaalexandragonzalez.mimedicogt.com/",
+      "zona": "15",
+      "place_id": "ChIJV3XFJjejiYURjLPP1bdB214",
+      "fecha_recoleccion": "2026-08-12T08:37:20.722Z",
+      "keyword_usado": "neurólogo zona 15, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "neurólogos guatemala 24 horas",
+      "especialidad": "Neurología",
+      "direccion": "2 calle 6-24 zona 10, Edificio Renovati, Cdad. de Guatemala 01010",
+      "telefono": "2254 0971",
+      "sitio_web": "https://www.neurologosguatemala.com/",
+      "zona": "10",
+      "place_id": "ChIJMbcQRxGjiYURoGEoIe-Yz9Y",
+      "fecha_recoleccion": "2026-08-12T08:37:05.004Z",
+      "keyword_usado": "neurólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "hospital",
+      "tipos_google": [
+        "hospital",
+        "health",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Neuromedica Guatemala",
+      "especialidad": "Neurología",
+      "direccion": "Edificio Salucentro, 10A Calle 6-40, Cdad. de Guatemala 01009",
+      "telefono": "2508 7033",
+      "sitio_web": "http://neuromedicagt.com/",
+      "zona": "9",
+      "place_id": "ChIJh6Eo0TujiYUR-T9RKyaUyqs",
+      "fecha_recoleccion": "2026-08-12T08:36:57.072Z",
+      "keyword_usado": "neurólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Neuroplas Cayalá",
+      "especialidad": "Neurología",
+      "direccion": "oficina 101, 10A Calle, Cdad. de Guatemala",
+      "telefono": "5354 5106",
+      "sitio_web": "",
+      "zona": "14",
+      "place_id": "ChIJjwRRcQCjiYURKKDgsVDj7_U",
+      "fecha_recoleccion": "2026-08-12T08:37:12.884Z",
+      "keyword_usado": "neurólogo zona 14, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_clinic",
+      "tipos_google": [
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Neuroraq- Dr. Julio Pozuelos.",
+      "especialidad": "Neurología",
+      "direccion": "2da calle 25-19 zona 15, edificio multimedica 9no nivel, clinica 905, Cdad. de Guatemala",
+      "telefono": "2441 8888",
+      "sitio_web": "",
+      "zona": "15",
+      "place_id": "ChIJV4U5xhejiYURn_iU9Z9bfMA",
+      "fecha_recoleccion": "2026-08-12T08:37:20.722Z",
+      "keyword_usado": "neurólogo zona 15, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "NOVUS Dermatología y Cosmética - Dr. Mena Wer",
+      "especialidad": "Dermatología",
+      "direccion": "Loc 6, Centro Comercial Las Margaritas, Diag. 6 14-01, Cdad. de Guatemala 01010",
+      "telefono": "5930 9399",
+      "sitio_web": "https://www.novusdrmenawer.com/",
+      "zona": "10",
+      "place_id": "ChIJkWDUngijiYUR0IS2b3VQ47M",
+      "fecha_recoleccion": "2026-08-12T08:36:01.891Z",
+      "keyword_usado": "dermatólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Pediacentro Guatemala",
+      "especialidad": "Pediatría",
+      "direccion": "Calzada Doroteo Guamuch Flores, 2 Calle 30-59, Cdad. de Guatemala 01007",
+      "telefono": "2464 9879",
+      "sitio_web": "https://www.pediacentro.com/",
+      "zona": "7",
+      "place_id": "ChIJ22pJNGyhiYURtypv1UweJWM",
+      "fecha_recoleccion": "2026-08-12T08:35:29.856Z",
+      "keyword_usado": "pediatra zona 7, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Pediatría - Gastroenterología",
+      "especialidad": "Pediatría",
+      "direccion": "A\" 15, 14 Avenida 12, Ciudad de Guatemala",
+      "telefono": "2360 7615",
+      "sitio_web": "",
+      "zona": "11",
+      "place_id": "ChIJN4U_9QahiYUR5Vbeu4V3Uko",
+      "fecha_recoleccion": "2026-08-12T08:35:45.777Z",
+      "keyword_usado": "pediatra zona 11, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Pediatría Dra Patricia Ayerdi",
+      "especialidad": "Pediatría",
+      "direccion": "MC9V+VP3, Cdad. de Guatemala",
+      "telefono": "3971 0120",
+      "sitio_web": "https://www.pediatriadraayerdi.com/",
+      "zona": "7",
+      "place_id": "ChIJAefVNACfiYURhBNo9GUxaAw",
+      "fecha_recoleccion": "2026-08-12T08:35:29.856Z",
+      "keyword_usado": "pediatra zona 7, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Pediatria Hospital Roosevelt",
+      "especialidad": "Pediatría",
+      "direccion": "JF65+W54, Cdad. de Guatemala",
+      "telefono": "",
+      "sitio_web": "",
+      "zona": "11",
+      "place_id": "ChIJ8aYHMp6hiYURoMep36s9sX8",
+      "fecha_recoleccion": "2026-08-12T08:35:45.777Z",
+      "keyword_usado": "pediatra zona 11, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "hospital",
+      "tipos_google": [
+        "hospital",
+        "service",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Punto Medico",
+      "especialidad": "Pediatría",
+      "direccion": "2do, Building 150, Nivel 150, Cdad. de Guatemala 01011",
+      "telefono": "2380 9900",
+      "sitio_web": "http://www.puntomedico.com.gt/",
+      "zona": "11",
+      "place_id": "ChIJSZ3e5q2hiYURz4sUah3eu0E",
+      "fecha_recoleccion": "2026-08-12T08:35:45.777Z",
+      "keyword_usado": "pediatra zona 11, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_center",
+      "tipos_google": [
+        "medical_center",
+        "hospital",
+        "service",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "RSkin Dermatologia",
+      "especialidad": "Dermatología",
+      "direccion": "17 Avenida 2-13, Cdad. de Guatemala",
+      "telefono": "5922 7784",
+      "sitio_web": "",
+      "zona": "15",
+      "place_id": "ChIJ2UFkHX-jiYURbF_8Me5ys5A",
+      "fecha_recoleccion": "2026-08-12T08:36:17.440Z",
+      "keyword_usado": "dermatólogo zona 15, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Sanatorio Nuestra Señora Del Rosario",
+      "especialidad": "Ginecología",
+      "direccion": "11 Avenida 11-30, Cdad. de Guatemala",
+      "telefono": "2251 0825",
+      "sitio_web": "",
+      "zona": "1",
+      "place_id": "ChIJo7cF_RSiiYURqeXFHdWpDUw",
+      "fecha_recoleccion": "2026-08-12T08:36:25.279Z",
+      "keyword_usado": "ginecólogo zona 1, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "hospital",
+      "tipos_google": [
+        "hospital",
+        "health",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Sanatorio Prosalud",
+      "especialidad": "Ginecología",
+      "direccion": "JFVW+5PF, Av. de Los Arboles, Cdad. de Guatemala",
+      "telefono": "3252 8811",
+      "sitio_web": "",
+      "zona": "1",
+      "place_id": "ChIJvScIN2yiiYURyZnVKQH3ph4",
+      "fecha_recoleccion": "2026-08-12T08:36:25.279Z",
+      "keyword_usado": "ginecólogo zona 1, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "hospital",
+      "tipos_google": [
+        "hospital",
+        "health",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Sanatorio Santa Teresita",
+      "especialidad": "Ginecología",
+      "direccion": "JFPR+W6P, Cdad. de Guatemala",
+      "telefono": "2296 3512",
+      "sitio_web": "",
+      "zona": "1",
+      "place_id": "ChIJDZAOqRWiiYURd60Xfac5_v4",
+      "fecha_recoleccion": "2026-08-12T08:36:25.279Z",
+      "keyword_usado": "ginecólogo zona 1, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "hospital",
+      "tipos_google": [
+        "hospital",
+        "health",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Servicios Dermatológicos PUVASA, S.A.",
+      "especialidad": "Dermatología",
+      "direccion": "7 Avenida 14-44 Zona 9 Edificio La Galeria Local 13 & 15A Planta Alta Guatemala, Edificio la Galería, 7A Avenida, Cdad. de Guatemala 01009",
+      "telefono": "2428 9478",
+      "sitio_web": "http://www.puvasa.com.gt/",
+      "zona": "9",
+      "place_id": "ChIJNcG_ximjiYURrJ3GIs3UmCw",
+      "fecha_recoleccion": "2026-08-12T08:35:53.806Z",
+      "keyword_usado": "dermatólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "skin_care_clinic",
+      "tipos_google": [
+        "skin_care_clinic",
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "SERVICIOS Y TECNOLOGÍA CARDIOVASCULAR DE GUATEMALA S.A. / CARDIOSOLUTIONS",
+      "especialidad": "Cardiología",
+      "direccion": "10 Calle 2-30, Cdad. de Guatemala 01010",
+      "telefono": "3003 7986",
+      "sitio_web": "",
+      "zona": "10",
+      "place_id": "ChIJ3arVNc6jiYURwL7zjCaij8w",
+      "fecha_recoleccion": "2026-08-12T08:35:06.292Z",
+      "keyword_usado": "cardiólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Sonograma",
+      "especialidad": "Ginecología",
+      "direccion": "5ta avenida 13-82, zona 9 - edificio Via Napoli, Of. 21, nivel, Cdad. de Guatemala 01009",
+      "telefono": "2362 8741",
+      "sitio_web": "",
+      "zona": "9",
+      "place_id": "ChIJV83h8t6jiYURVchXbPd81gM",
+      "fecha_recoleccion": "2026-08-12T08:36:33.341Z",
+      "keyword_usado": "ginecólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Ultrasonido 5D, Dra. Luisa Maria Gaytan Pontaza",
+      "especialidad": "Ginecología",
+      "direccion": "2 Calle 6-24, Cdad. de Guatemala 01010",
+      "telefono": "4993 5892",
+      "sitio_web": "http://www.ginecologia.gt/",
+      "zona": "10",
+      "place_id": "ChIJ64ZOz2yjiYURZCKXkYM2wB0",
+      "fecha_recoleccion": "2026-08-12T08:36:41.375Z",
+      "keyword_usado": "ginecólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Unidad de Diagnóstico Cardiológico",
+      "especialidad": "Cardiología",
+      "direccion": "10A Calle 312, Cdad. de Guatemala",
+      "telefono": "2496 8700",
+      "sitio_web": "",
+      "zona": "1",
+      "place_id": "ChIJHUEQ6BmiiYURdqTYnNX0ZXE",
+      "fecha_recoleccion": "2026-08-12T08:34:50.291Z",
+      "keyword_usado": "cardiólogo zona 1, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_center",
+      "tipos_google": [
+        "medical_center",
+        "hospital",
+        "health",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Unidad de Diagnóstico Cardiológico",
+      "especialidad": "Cardiología",
+      "direccion": "2o, Edificio Salucentro, Nivel 640, Cdad. de Guatemala 01009",
+      "telefono": "2496 6000",
+      "sitio_web": "http://www.udiagnostico.com/",
+      "zona": "9",
+      "place_id": "ChIJcesPD9GjiYURF2XwqdBdZAk",
+      "fecha_recoleccion": "2026-08-12T08:34:58.296Z",
+      "keyword_usado": "cardiólogo zona 9, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_center",
+      "tipos_google": [
+        "medical_center",
+        "doctor",
+        "hospital",
+        "health",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Unidad de Diagnóstico Cardiovascular",
+      "especialidad": "Cardiología",
+      "direccion": "10A Calle A 2-30, Cdad. de Guatemala",
+      "telefono": "3003 7986",
+      "sitio_web": "",
+      "zona": "14",
+      "place_id": "ChIJ_8IfIQCjiYUR2_MOBfHDxmY",
+      "fecha_recoleccion": "2026-08-12T08:35:14.117Z",
+      "keyword_usado": "cardiólogo zona 14, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Unidad de Neurodiagnostico",
+      "especialidad": "Neurología",
+      "direccion": "oficina 605, Ciudad de, Blvd. Vista Hermosa 25-19, Cdad. de Guatemala 01015",
+      "telefono": "4669 0602",
+      "sitio_web": "",
+      "zona": "15",
+      "place_id": "ChIJEwycqvujiYURnYB77kswmCo",
+      "fecha_recoleccion": "2026-08-12T08:37:20.722Z",
+      "keyword_usado": "neurólogo zona 15, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Women's Speciality Care Guatemala - Dr. Carlos Taracena Palala",
+      "especialidad": "Ginecología",
+      "direccion": "Oficina 603, Edificio Clínicas Médicas de las Americas, 10 calle 2-45, Cdad. de Guatemala 01014",
+      "telefono": "2366 1101",
+      "sitio_web": "https://womenspecialitycare.com/",
+      "zona": "14",
+      "place_id": "ChIJY8ojVeajiYURPHg7mvBPWdI",
+      "fecha_recoleccion": "2026-08-12T08:36:49.190Z",
+      "keyword_usado": "ginecólogo zona 14, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Zion Dermatology, Dra. Sofia del Cid Fratti",
+      "especialidad": "Dermatología",
+      "direccion": "9na calle 4-52 zona 10 Edificio Integra Medical Center, clínica 211, Torre 2, Cdad. de Guatemala 01011",
+      "telefono": "2296 8081",
+      "sitio_web": "",
+      "zona": "10",
+      "place_id": "ChIJZ1dI3bGNdiARGf0TJ8M8Ggs",
+      "fecha_recoleccion": "2026-08-12T08:36:01.891Z",
+      "keyword_usado": "dermatólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ]
+}

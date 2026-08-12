@@ -1,0 +1,10 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // El navegador consulta exclusivamente por la Cloud Function protegida.
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

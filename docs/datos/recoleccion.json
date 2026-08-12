@@ -1,0 +1,211 @@
+{
+  "inicio": "2026-08-12T08:34:48.839Z",
+  "api": "https://us-central1-ria-proyecto1.cloudfunctions.net/api",
+  "intervalo_ms": 7000,
+  "total_planificadas": 20,
+  "resultados": [
+    {
+      "especialidad": "Cardiología",
+      "keyword": "cardiólogo",
+      "zona": "1",
+      "fecha": "2026-08-12T08:34:50.443Z",
+      "http": 201,
+      "guardados": 11,
+      "eliminados_obsoletos": 0,
+      "error": null
+    },
+    {
+      "especialidad": "Cardiología",
+      "keyword": "cardiólogo",
+      "zona": "9",
+      "fecha": "2026-08-12T08:34:58.430Z",
+      "http": 201,
+      "guardados": 10,
+      "eliminados_obsoletos": 0,
+      "error": null
+    },
+    {
+      "especialidad": "Cardiología",
+      "keyword": "cardiólogo",
+      "zona": "10",
+      "fecha": "2026-08-12T08:35:06.423Z",
+      "http": 201,
+      "guardados": 16,
+      "eliminados_obsoletos": 1,
+      "error": null
+    },
+    {
+      "especialidad": "Cardiología",
+      "keyword": "cardiólogo",
+      "zona": "14",
+      "fecha": "2026-08-12T08:35:14.229Z",
+      "http": 201,
+      "guardados": 6,
+      "eliminados_obsoletos": 0,
+      "error": null
+    },
+    {
+      "especialidad": "Pediatría",
+      "keyword": "pediatra",
+      "zona": "1",
+      "fecha": "2026-08-12T08:35:22.185Z",
+      "http": 201,
+      "guardados": 17,
+      "eliminados_obsoletos": 0,
+      "error": null
+    },
+    {
+      "especialidad": "Pediatría",
+      "keyword": "pediatra",
+      "zona": "7",
+      "fecha": "2026-08-12T08:35:29.969Z",
+      "http": 201,
+      "guardados": 11,
+      "eliminados_obsoletos": 1,
+      "error": null
+    },
+    {
+      "especialidad": "Pediatría",
+      "keyword": "pediatra",
+      "zona": "10",
+      "fecha": "2026-08-12T08:35:37.954Z",
+      "http": 201,
+      "guardados": 18,
+      "eliminados_obsoletos": 0,
+      "error": null
+    },
+    {
+      "especialidad": "Pediatría",
+      "keyword": "pediatra",
+      "zona": "11",
+      "fecha": "2026-08-12T08:35:45.890Z",
+      "http": 201,
+      "guardados": 13,
+      "eliminados_obsoletos": 1,
+      "error": null
+    },
+    {
+      "especialidad": "Dermatología",
+      "keyword": "dermatólogo",
+      "zona": "9",
+      "fecha": "2026-08-12T08:35:54.032Z",
+      "http": 201,
+      "guardados": 7,
+      "eliminados_obsoletos": 0,
+      "error": null
+    },
+    {
+      "especialidad": "Dermatología",
+      "keyword": "dermatólogo",
+      "zona": "10",
+      "fecha": "2026-08-12T08:36:02.036Z",
+      "http": 201,
+      "guardados": 19,
+      "eliminados_obsoletos": 0,
+      "error": null
+    },
+    {
+      "especialidad": "Dermatología",
+      "keyword": "dermatólogo",
+      "zona": "14",
+      "fecha": "2026-08-12T08:36:09.800Z",
+      "http": 201,
+      "guardados": 8,
+      "eliminados_obsoletos": 0,
+      "error": null
+    },
+    {
+      "especialidad": "Dermatología",
+      "keyword": "dermatólogo",
+      "zona": "15",
+      "fecha": "2026-08-12T08:36:17.583Z",
+      "http": 201,
+      "guardados": 6,
+      "eliminados_obsoletos": 0,
+      "error": null
+    },
+    {
+      "especialidad": "Ginecología",
+      "keyword": "ginecólogo",
+      "zona": "1",
+      "fecha": "2026-08-12T08:36:25.467Z",
+      "http": 201,
+      "guardados": 19,
+      "eliminados_obsoletos": 0,
+      "error": null
+    },
+    {
+      "especialidad": "Ginecología",
+      "keyword": "ginecólogo",
+      "zona": "9",
+      "fecha": "2026-08-12T08:36:33.559Z",
+      "http": 201,
+      "guardados": 18,
+      "eliminados_obsoletos": 0,
+      "error": null
+    },
+    {
+      "especialidad": "Ginecología",
+      "keyword": "ginecólogo",
+      "zona": "10",
+      "fecha": "2026-08-12T08:36:41.544Z",
+      "http": 201,
+      "guardados": 18,
+      "eliminados_obsoletos": 0,
+      "error": null
+    },
+    {
+      "especialidad": "Ginecología",
+      "keyword": "ginecólogo",
+      "zona": "14",
+      "fecha": "2026-08-12T08:36:49.328Z",
+      "http": 201,
+      "guardados": 14,
+      "eliminados_obsoletos": 0,
+      "error": null
+    },
+    {
+      "especialidad": "Neurología",
+      "keyword": "neurólogo",
+      "zona": "9",
+      "fecha": "2026-08-12T08:36:57.175Z",
+      "http": 201,
+      "guardados": 5,
+      "eliminados_obsoletos": 0,
+      "error": null
+    },
+    {
+      "especialidad": "Neurología",
+      "keyword": "neurólogo",
+      "zona": "10",
+      "fecha": "2026-08-12T08:37:05.199Z",
+      "http": 201,
+      "guardados": 17,
+      "eliminados_obsoletos": 0,
+      "error": null
+    },
+    {
+      "especialidad": "Neurología",
+      "keyword": "neurólogo",
+      "zona": "14",
+      "fecha": "2026-08-12T08:37:13.005Z",
+      "http": 201,
+      "guardados": 10,
+      "eliminados_obsoletos": 1,
+      "error": null
+    },
+    {
+      "especialidad": "Neurología",
+      "keyword": "neurólogo",
+      "zona": "15",
+      "fecha": "2026-08-12T08:37:20.841Z",
+      "http": 201,
+      "guardados": 6,
+      "eliminados_obsoletos": 0,
+      "error": null
+    }
+  ],
+  "fin": "2026-08-12T08:37:20.841Z",
+  "exitosas": 20,
+  "fallidas": 0
+}
