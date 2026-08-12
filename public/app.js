@@ -28,6 +28,16 @@ const state = {
   },
 };
 
+const attemptedCollections = new Set();
+const collectionKeywords = new Map([
+  ["cardiologia", "cardiólogo"],
+  ["dermatologia", "dermatólogo"],
+  ["ginecologia", "ginecólogo"],
+  ["neurologia", "neurólogo"],
+  ["ortopedia", "ortopedista"],
+  ["pediatria", "pediatra"],
+]);
+
 function createTextCell(label, value) {
   const cell = document.createElement("td");
   cell.dataset.label = label;
@@ -117,6 +127,47 @@ function updateUrl() {
   history.replaceState(null, "", query ? `/?${query}` : "/");
 }
 
+function normalizeSearchText(value) {
+  return value
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .trim()
+    .toLocaleLowerCase("es-GT")
+    .replace(/\s+/g, " ");
+}
+
+function collectionKey() {
+  return `${normalizeSearchText(state.filters.specialty)}|${state.filters.zone}`;
+}
+
+async function collectDoctors() {
+  statusMessage.textContent = "No había resultados. Buscando nuevos médicos…";
+
+  const response = await fetch(`${apiBaseUrl}/recolectar`, {
+    method: "POST",
+    headers: {
+      Accept: "application/json",
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({
+      keyword:
+        collectionKeywords.get(normalizeSearchText(state.filters.specialty)) ||
+        state.filters.specialty,
+      especialidad: state.filters.specialty,
+      zona: state.filters.zone,
+    }),
+  });
+  const payload = await response.json().catch(() => ({}));
+
+  if (!response.ok) {
+    throw new Error(
+      payload.error || "No fue posible buscar nuevos resultados en Google Places.",
+    );
+  }
+
+  statusMessage.textContent = "Actualizando el directorio…";
+}
+
 async function loadDirectory() {
   setLoading(true);
   errorMessage.hidden = true;
@@ -147,7 +198,41 @@ async function loadDirectory() {
       throw new Error(payload.error || defaultMessage);
     }
 
-    const doctors = Array.isArray(payload.datos) ? payload.datos : [];
+    let doctors = Array.isArray(payload.datos) ? payload.datos : [];
+
+    const shouldCollect =
+      doctors.length === 0 &&
+      state.page === 1 &&
+      state.filters.specialty !== "" &&
+      state.filters.zone !== "";
+
+    if (shouldCollect) {
+      const key = collectionKey();
+
+      if (!attemptedCollections.has(key)) {
+        await collectDoctors();
+        attemptedCollections.add(key);
+
+        const refreshedResponse = await fetch(
+          `${apiBaseUrl}/directorio?${params.toString()}`,
+          { headers: { Accept: "application/json" } },
+        );
+        const refreshedPayload = await refreshedResponse.json().catch(() => ({}));
+
+        if (!refreshedResponse.ok) {
+          throw new Error(
+            refreshedPayload.error ||
+              "Los datos se recolectaron, pero no fue posible actualizar el directorio.",
+          );
+        }
+
+        doctors = Array.isArray(refreshedPayload.datos)
+          ? refreshedPayload.datos
+          : [];
+        payload.paginacion = refreshedPayload.paginacion;
+      }
+    }
+
     state.hasNext = Boolean(payload.paginacion?.hasNext);
     renderRows(doctors);
     tableContainer.hidden = doctors.length === 0;
