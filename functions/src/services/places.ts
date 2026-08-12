@@ -18,6 +18,8 @@ const socialHosts = [
   "instagram.com",
   "linkedin.com",
   "tiktok.com",
+  "wa.me",
+  "whatsapp.com",
   "x.com",
   "twitter.com",
 ];
