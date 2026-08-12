@@ -48,6 +48,16 @@ interface GooglePlace {
   websiteUri?: string;
 }
 
+const excludedPlaceIds = new Set([
+  // Contradicciones confirmadas durante la revisión humana del 12/08/2026.
+  "ChIJDwmcewqjiYURg2rlJKG-7Zo", // Dirección devuelta en Zacapa.
+  "ChIJtX0bAeujiYURjM-R2D1LV5I", // Dirección devuelta en Teculután.
+  "ChIJtdUc8mCjiYURdFYSE9lJg8g", // Centro de Tiroides bajo Cardiología.
+  "ChIJ-QdWVeajiYUR7ygyEdKQqe4", // Edificio médico bajo Neurología.
+  "ChIJe4MZiwShiYUR4J8dOZ2H378", // Pedicure bajo Pediatría.
+  "ChIJ8bwxMwGhiYURVNukClREs_g", // Instituto para ciegos bajo Pediatría.
+]);
+
 const guatemalaCityBounds = {
   low: { latitude: 14.45, longitude: -90.7 },
   high: { latitude: 14.75, longitude: -90.35 },
@@ -160,7 +170,7 @@ export async function searchPlaces(
     const placeId = place.id?.trim();
     const name = place.displayName?.text?.trim();
     const address = place.formattedAddress?.trim() ?? "";
-    if (!placeId || !name) {
+    if (!placeId || !name || excludedPlaceIds.has(placeId)) {
       continue;
     }
     if (!isInsideGuatemalaCity(place.location)) {
