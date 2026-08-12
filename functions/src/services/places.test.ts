@@ -1,6 +1,8 @@
 import assert from "node:assert/strict";
 import test from "node:test";
 
+type Fetch = typeof fetch;
+
 import {
   extractAddressZone,
   hasMedicalPlaceType,
@@ -11,6 +13,8 @@ import {
 
 test("descarta redes sociales y URLs no válidas", () => {
   assert.equal(sanitizeWebsite("https://www.facebook.com/clinica"), "");
+  assert.equal(sanitizeWebsite("https://wa.me/50238013259"), "");
+  assert.equal(sanitizeWebsite("https://api.whatsapp.com/send?phone=50238013259"), "");
   assert.equal(sanitizeWebsite("javascript:alert(1)"), "");
   assert.equal(
     sanitizeWebsite("https://clinica.example/consulta"),
@@ -43,10 +47,12 @@ test("acepta únicamente categorías médicas devueltas por Google", () => {
 });
 
 test("mapea y limita una búsqueda a 20 lugares", async () => {
-  const originalFetch = globalThis.fetch;
   let sentBody: Record<string, unknown> = {};
 
-  globalThis.fetch = (async (_input, init) => {
+  const fetchMock = (async (
+    _input: unknown,
+    init?: { body?: unknown },
+  ) => {
     sentBody = JSON.parse(String(init?.body)) as Record<string, unknown>;
     const places = Array.from({ length: 21 }, (_, index) => ({
       id: `place-${index}`,
@@ -62,33 +68,34 @@ test("mapea y limita una búsqueda a 20 lugares", async () => {
       status: 200,
       headers: { "Content-Type": "application/json" },
     });
-  }) as typeof fetch;
+  }) as unknown as Fetch;
 
-  try {
-    const doctors = await searchPlaces("cardiólogo", "10", "Cardiología", "test-key");
+  const doctors = await searchPlaces(
+    "cardiólogo",
+    "10",
+    "Cardiología",
+    "test-key",
+    fetchMock,
+  );
 
-    assert.equal(doctors.length, 20);
-    assert.equal(doctors[0]?.place_id, "place-0");
-    assert.equal(doctors[0]?.especialidad_busqueda, "cardiologia");
-    assert.equal(sentBody.pageSize, 20);
-    assert.deepEqual(sentBody.locationRestriction, {
-      rectangle: {
-        low: { latitude: 14.45, longitude: -90.7 },
-        high: { latitude: 14.75, longitude: -90.35 },
-      },
-    });
-    assert.equal(
-      sentBody.textQuery,
-      "cardiólogo zona 10, Ciudad de Guatemala, Guatemala",
-    );
-  } finally {
-    globalThis.fetch = originalFetch;
-  }
+  assert.equal(doctors.length, 20);
+  assert.equal(doctors[0]?.place_id, "place-0");
+  assert.equal(doctors[0]?.especialidad_busqueda, "cardiologia");
+  assert.equal(sentBody.pageSize, 20);
+  assert.deepEqual(sentBody.locationRestriction, {
+    rectangle: {
+      low: { latitude: 14.45, longitude: -90.7 },
+      high: { latitude: 14.75, longitude: -90.35 },
+    },
+  });
+  assert.equal(
+    sentBody.textQuery,
+    "cardiólogo zona 10, Ciudad de Guatemala, Guatemala",
+  );
 });
 
 test("descarta resultados con una zona explícita diferente", async () => {
-  const originalFetch = globalThis.fetch;
-  globalThis.fetch = (async () =>
+  const fetchMock = (async () =>
     new Response(
       JSON.stringify({
         places: [
@@ -109,12 +116,14 @@ test("descarta resultados con una zona explícita diferente", async () => {
         ],
       }),
       { status: 200 },
-    )) as typeof fetch;
+    )) as unknown as Fetch;
 
-  try {
-    const doctors = await searchPlaces("cardiólogo", "10", "Cardiología", "key");
-    assert.deepEqual(doctors.map((doctor) => doctor.place_id), ["zona-correcta"]);
-  } finally {
-    globalThis.fetch = originalFetch;
-  }
+  const doctors = await searchPlaces(
+    "cardiólogo",
+    "10",
+    "Cardiología",
+    "key",
+    fetchMock,
+  );
+  assert.deepEqual(doctors.map((doctor) => doctor.place_id), ["zona-correcta"]);
 });
