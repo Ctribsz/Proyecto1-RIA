@@ -1,18 +1,12 @@
 # Reporte de cobertura
 
-Generado: 2026-08-12T15:51:31.000Z
+Generado: 2026-08-13T01:36:11.981Z
 
-Validación operativa actualizada: 2026-08-12.
-
-Documentos únicos por `place_id`: **215**.
-Sin teléfono: **16**. Sin sitio web: **99**.
+Documentos únicos por `place_id`: **236**.
+Sin teléfono: **19**. Sin sitio web: **109**.
 
 La última matriz ejecutó 20 búsquedas con una pausa de siete segundos y no
 superó 10 solicitudes por minuto. No se ejecutaron variantes adicionales.
-
-Durante la configuración, validación y dos pasadas controladas se completaron
-44 búsquedas exitosas de Places en total, dentro de la cuota diaria de 100. Las
-tres validaciones posteriores no alteraron estas métricas del dataset.
 
 ## Por especialidad
 
@@ -21,7 +15,9 @@ tres validaciones posteriores no alteraron estas métricas del dataset.
 | Cardiología | 31 |
 | Dermatología | 33 |
 | Ginecología | 66 |
-| Neurología | 38 |
+| Neurología | 37 |
+| Ortopedia | 20 |
+| Ortopediadia | 2 |
 | Pediatría | 47 |
 
 ## Por zona
@@ -31,8 +27,9 @@ tres validaciones posteriores no alteraron estas métricas del dataset.
 | 1 | 32 |
 | 7 | 9 |
 | 9 | 36 |
-| 10 | 84 |
+| 10 | 96 |
 | 11 | 13 |
+| 12 | 9 |
 | 14 | 29 |
 | 15 | 12 |
 
@@ -53,9 +50,12 @@ tres validaciones posteriores no alteraron estas métricas del dataset.
 | Ginecología | 10 | 18 |
 | Ginecología | 14 | 12 |
 | Neurología | 9 | 5 |
-| Neurología | 10 | 17 |
+| Neurología | 10 | 16 |
 | Neurología | 14 | 10 |
 | Neurología | 15 | 6 |
+| Ortopedia | 10 | 13 |
+| Ortopedia | 12 | 7 |
+| Ortopediadia | 12 | 2 |
 | Pediatría | 1 | 9 |
 | Pediatría | 7 | 9 |
 | Pediatría | 10 | 16 |
@@ -74,7 +74,6 @@ clasificado por Google aunque su nombre no mencione la especialidad.
 | Atención Médica Siloé | Ginecología | 1 | hospital | 4 Calle 9-64 Zona 1 Ciudad de Guatemala, Cdad. de Guatemala 01001 |
 | Blue Medical Majadas | Pediatría | 11 | medical_clinic | Interior Parque Majadas 24-55, Cdad. de Guatemala 01011 |
 | Centro Clínico Medikor Zona 14 | Ginecología | 14 | doctor | 10A calle 2-45 Zona 14, Clinica 704, Edificio Clínicas Médicas de las Las Américas, Cdad. de Guatemala 01014 |
-| Centro Médico | Neurología | 10 | medical_center | 6A Avenida 3-47, Cdad. de Guatemala 01010 |
 | Centro Medico Dr Roberto Koch | Ginecología | 1 | hospital | 2A Av. 13-51, Cdad. de Guatemala |
 | Centro Médico Morazán | Ginecología | 1 | medical_center | 6 AV 1-29, Cdad. de Guatemala |
 | CENTRO MEDICO SAN ANGEL | Pediatría | 7 | hospital | 13 Calle C 27-47, Cdad. de Guatemala |
@@ -138,3 +137,4 @@ clasificado por Google aunque su nombre no mencione la especialidad.
 | Sanatorio Prosalud | Ginecología | 1 | hospital | JFVW+5PF, Av. de Los Arboles, Cdad. de Guatemala |
 | Sanatorio Santa Teresita | Ginecología | 1 | hospital | JFPR+W6P, Cdad. de Guatemala |
 | Sonograma | Ginecología | 9 | doctor | 5ta avenida 13-82, zona 9 - edificio Via Napoli, Of. 21, nivel, Cdad. de Guatemala 01009 |
+

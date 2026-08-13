@@ -1,6 +1,24 @@
 {
-  "fecha_exportacion": "2026-08-12T15:51:31.000Z",
+  "fecha_exportacion": "2026-08-13T01:36:11.981Z",
   "datos": [
+    {
+      "nombre": "ADOLFO ORTOPEDIA",
+      "especialidad": "Ortopediadia",
+      "direccion": "17 Avenida 9-18, Cdad. de Guatemala",
+      "telefono": "4067 2172",
+      "sitio_web": "",
+      "zona": "12",
+      "place_id": "ChIJ6fB8Hh-hiYURciSFB4zuRlM",
+      "fecha_recoleccion": "2026-08-13T01:33:07.421Z",
+      "keyword_usado": "Ortopediadia zona 12, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_clinic",
+      "tipos_google": [
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
     {
       "nombre": "Alfa y Omega Clínica de Ultrasonido y Atención del Embarazo",
       "especialidad": "Ginecología",
@@ -50,6 +68,26 @@
       "keyword_usado": "ginecólogo zona 1, Ciudad de Guatemala, Guatemala",
       "tipo_principal_google": "health",
       "tipos_google": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Artículos ortopédicos y deportivo",
+      "especialidad": "Ortopediadia",
+      "direccion": "de, 2A Avenida 2-71, Cdad. de Guatemala",
+      "telefono": "",
+      "sitio_web": "",
+      "zona": "12",
+      "place_id": "ChIJD7SsUwGhiYURV0rMJ1mVW6w",
+      "fecha_recoleccion": "2026-08-13T01:33:07.421Z",
+      "keyword_usado": "Ortopediadia zona 12, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "shoe_store",
+      "tipos_google": [
+        "shoe_store",
+        "sporting_goods_store",
+        "store",
         "health",
         "point_of_interest",
         "establishment"
@@ -336,6 +374,24 @@
       ]
     },
     {
+      "nombre": "Centro de Pie y Tobillo de Guatemala",
+      "especialidad": "Ortopedia",
+      "direccion": "3a Calle \"A\", No. 3-22 Zona 10, Edificio 3-22, Nivel No. 6, Oficina B Guatemala, Cdad. de Guatemala 01010",
+      "telefono": "2332 4592",
+      "sitio_web": "http://www.centrodepieytobillo.com/",
+      "zona": "10",
+      "place_id": "ChIJeVM8NyejiYURPj44Uv5IJ3k",
+      "fecha_recoleccion": "2026-08-13T01:30:45.531Z",
+      "keyword_usado": "ortopedista zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_clinic",
+      "tipos_google": [
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
       "nombre": "Centro de Rehabilitación Cardíaca de Guatemala",
       "especialidad": "Cardiología",
       "direccion": "6 ave. 9-18 zona 10, Edificio Sixtino II, piso 3, Cdad. de Guatemala 01010",
@@ -410,22 +466,22 @@
     },
     {
       "nombre": "Centro Médico",
-      "especialidad": "Neurología",
+      "especialidad": "Ortopedia",
       "direccion": "6A Avenida 3-47, Cdad. de Guatemala 01010",
       "telefono": "2319 4600",
       "sitio_web": "http://www.centromedico.com.gt/",
       "zona": "10",
       "place_id": "ChIJR9VyPcujiYURhE-i24vTWlY",
-      "fecha_recoleccion": "2026-08-12T08:37:05.004Z",
-      "keyword_usado": "neurólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "fecha_recoleccion": "2026-08-13T01:30:45.531Z",
+      "keyword_usado": "ortopedista zona 10, Ciudad de Guatemala, Guatemala",
       "tipo_principal_google": "medical_center",
       "tipos_google": [
         "medical_center",
-        "medical_clinic",
         "hospital",
+        "medical_clinic",
         "health",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -749,6 +805,24 @@
       ]
     },
     {
+      "nombre": "Clínica De Traumatología",
+      "especialidad": "Ortopedia",
+      "direccion": "JF93+FF9, Unnamed Road, Cdad. de Guatemala",
+      "telefono": "",
+      "sitio_web": "",
+      "zona": "12",
+      "place_id": "ChIJpyqxvMihiYURfgoAdiORPhs",
+      "fecha_recoleccion": "2026-08-13T01:32:52.954Z",
+      "keyword_usado": "ortopedista zona 12, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_clinic",
+      "tipos_google": [
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
       "nombre": "Clínica Del Dr. Victor Arevalo",
       "especialidad": "Neurología",
       "direccion": "Edificio Sixtino dos oficina 703 Ala uno Zona 10 Ciudad de Guatemala, Cdad. de Guatemala 01010",
@@ -909,6 +983,24 @@
       "tipo_principal_google": "doctor",
       "tipos_google": [
         "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clinica Dr. Luis Eduardo Contreras",
+      "especialidad": "Ortopedia",
+      "direccion": "Edificio Renovati, 2A Calle, Cdad. de Guatemala 01010",
+      "telefono": "2362 0286",
+      "sitio_web": "",
+      "zona": "10",
+      "place_id": "ChIJwU7nBFKjiYURvYQgThkY4yQ",
+      "fecha_recoleccion": "2026-08-13T01:30:45.531Z",
+      "keyword_usado": "ortopedista zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_clinic",
+      "tipos_google": [
+        "medical_clinic",
         "health",
         "point_of_interest",
         "establishment"
@@ -1098,6 +1190,24 @@
       ]
     },
     {
+      "nombre": "Clínica Médica Dr Manuel Hernández. (Clínica Dra López)",
+      "especialidad": "Ortopedia",
+      "direccion": "Alameda de Santa Lucia 22 Zona 12. 21 Avenida 33-58, Cdad. de Guatemala, Antigua 01012",
+      "telefono": "7832 6115",
+      "sitio_web": "https://drmanuelhernandez.com/",
+      "zona": "12",
+      "place_id": "ChIJGWyiTb4PiYURJPXklV3_2GU",
+      "fecha_recoleccion": "2026-08-13T01:32:52.954Z",
+      "keyword_usado": "ortopedista zona 12, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
       "nombre": "Clinica Medica Dr. Castellanos",
       "especialidad": "Pediatría",
       "direccion": "A, JFVJ+WCC, 4A Calle, Cdad. de Guatemala",
@@ -1261,6 +1371,24 @@
       ]
     },
     {
+      "nombre": "CLINICA ORTOPEDICA ESPECIALIZADA - Dr. Juan Carlos Navas",
+      "especialidad": "Ortopedia",
+      "direccion": "6A AVENIDA 6-63 ZONA 10 EDIFICIO SIXTINO 1, 507, Cdad. de Guatemala 01010",
+      "telefono": "2251 3738",
+      "sitio_web": "http://www.traumatologiapediatrica.com/",
+      "zona": "10",
+      "place_id": "ChIJr6WayMujiYURxp427UICi1k",
+      "fecha_recoleccion": "2026-08-13T01:30:45.531Z",
+      "keyword_usado": "ortopedista zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_clinic",
+      "tipos_google": [
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
       "nombre": "Clinica Pediatría Doctor Marcos Taracena -Herrera Llerandi",
       "especialidad": "Pediatría",
       "direccion": "Norte Herrera Llerandi, 6A Avenida 7-55, Cdad. de Guatemala 01010",
@@ -1342,6 +1470,24 @@
       "place_id": "ChIJX1dFfKqjiYURmiCnAfOejP8",
       "fecha_recoleccion": "2026-08-12T08:37:12.884Z",
       "keyword_usado": "neurólogo zona 14, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Clínicas San Lucas - Dr. Carlos Hacohen",
+      "especialidad": "Ortopedia",
+      "direccion": "JF6P+6X3, 3A Calle A, Cdad. de Guatemala 01010",
+      "telefono": "2360 9185",
+      "sitio_web": "",
+      "zona": "10",
+      "place_id": "ChIJzRtSQoajiYURAMdp_7iIpn4",
+      "fecha_recoleccion": "2026-08-13T01:30:45.531Z",
+      "keyword_usado": "ortopedista zona 10, Ciudad de Guatemala, Guatemala",
       "tipo_principal_google": "doctor",
       "tipos_google": [
         "doctor",
@@ -1701,6 +1847,60 @@
       ]
     },
     {
+      "nombre": "Dr. Aldana Sáenz (parqueo)",
+      "especialidad": "Ortopedia",
+      "direccion": "3A Calle A 3-52, Cdad. de Guatemala 01010",
+      "telefono": "2362 2394",
+      "sitio_web": "http://www.aldanasaenz.com/",
+      "zona": "10",
+      "place_id": "ChIJD5W30myjiYURT6S91STVnlE",
+      "fecha_recoleccion": "2026-08-13T01:30:45.531Z",
+      "keyword_usado": "ortopedista zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr. Andrés Castillo Álvarez, Traumatólogo Ortopedista",
+      "especialidad": "Ortopedia",
+      "direccion": "9a calle 4-52 zona 10, Edificio Integra Medical Center, Torre 2, Cdad. de Guatemala 01010",
+      "telefono": "2337 0395",
+      "sitio_web": "http://www.andrescastillomd.com/",
+      "zona": "10",
+      "place_id": "ChIJ6RTSCWyjiYURJEnzDyO9rtA",
+      "fecha_recoleccion": "2026-08-13T01:30:45.531Z",
+      "keyword_usado": "ortopedista zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_clinic",
+      "tipos_google": [
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr. Andres Cobar",
+      "especialidad": "Ortopedia",
+      "direccion": "Clinica 712, Edificio Medika 10, 6 Ave 4-01, Cdad. de Guatemala 01010",
+      "telefono": "4254 2306",
+      "sitio_web": "https://salunet.gt/en/medico/andres-cobar-bustamante-2/?fbclid=PAAaYJ2ZLegxuHpQGOb7oa3-bgX5L2m6cMs5i3wnT5I08M-ECreQJuWllen5U",
+      "zona": "10",
+      "place_id": "ChIJZ9WvewSjiYUR48YTxrYdAQs",
+      "fecha_recoleccion": "2026-08-13T01:30:45.531Z",
+      "keyword_usado": "ortopedista zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_clinic",
+      "tipos_google": [
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
       "nombre": "Dr. ARTURO HERRERA CASTILLO",
       "especialidad": "Pediatría",
       "direccion": "JFMP+Q7W, 6A Avenida A, Cdad. de Guatemala",
@@ -1746,6 +1946,24 @@
       "place_id": "ChIJLzEDytqjiYURpqFVjwRHZ0w",
       "fecha_recoleccion": "2026-08-12T08:37:12.884Z",
       "keyword_usado": "neurólogo zona 14, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr. Carlos R. Arriaza",
+      "especialidad": "Ortopedia",
+      "direccion": "6A Avenida 4-01 Zona 10, Clinica 712, Edificio Medika 10, Cdad. de Guatemala 01010",
+      "telefono": "4254 2306",
+      "sitio_web": "",
+      "zona": "10",
+      "place_id": "ChIJMUa9X5mjiYUR_Xx_yL1acqc",
+      "fecha_recoleccion": "2026-08-13T01:30:45.531Z",
+      "keyword_usado": "ortopedista zona 10, Ciudad de Guatemala, Guatemala",
       "tipo_principal_google": "doctor",
       "tipos_google": [
         "doctor",
@@ -2001,6 +2219,24 @@
       "place_id": "ChIJN5kkGSijiYUR2Bc3p1I5fCM",
       "fecha_recoleccion": "2026-08-12T08:37:05.004Z",
       "keyword_usado": "neurólogo zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Dr. José Antonio Prieto Meré",
+      "especialidad": "Ortopedia",
+      "direccion": "9A calle 4-52 Edificio Integra Medical Center, Clinica 412, Torre II, Cdad. de Guatemala 01010",
+      "telefono": "2296 8091",
+      "sitio_web": "http://www.drprietomere.com/",
+      "zona": "10",
+      "place_id": "ChIJk7MAmvCjiYURD94COlm5aVs",
+      "fecha_recoleccion": "2026-08-13T01:30:45.531Z",
+      "keyword_usado": "ortopedista zona 10, Ciudad de Guatemala, Guatemala",
       "tipo_principal_google": "doctor",
       "tipos_google": [
         "doctor",
@@ -2649,7 +2885,7 @@
       "especialidad": "Dermatología",
       "direccion": "6ta Avenida 7-39 zona 10, Edificio Las Brisas, 4to nivel, oficina, Cdad. de Guatemala 01010",
       "telefono": "3801 3259",
-      "sitio_web": "",
+      "sitio_web": "https://wa.me/50238013259",
       "zona": "10",
       "place_id": "ChIJU_OmNYijiYURyKAy8LSw6UM",
       "fecha_recoleccion": "2026-08-12T08:36:01.891Z",
@@ -2787,6 +3023,26 @@
       "tipo_principal_google": "doctor",
       "tipos_google": [
         "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "GARAL, ORTOPEDIA Y REHABILITACION",
+      "especialidad": "Ortopedia",
+      "direccion": "10 Calle 5-07, Cdad. de Guatemala 01010",
+      "telefono": "2339 3955",
+      "sitio_web": "http://www.garal.com.gt/",
+      "zona": "10",
+      "place_id": "ChIJu98_LsmjiYURQQ3E7NSCKZM",
+      "fecha_recoleccion": "2026-08-13T01:30:45.531Z",
+      "keyword_usado": "ortopedista zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_clinic",
+      "tipos_google": [
+        "physiotherapist",
+        "doctor",
+        "medical_clinic",
         "health",
         "point_of_interest",
         "establishment"
@@ -3016,6 +3272,25 @@
       ]
     },
     {
+      "nombre": "Hospital de Traumatología y Ortopedia Rodríguez Montoya",
+      "especialidad": "Ortopedia",
+      "direccion": "0-41, 9A Calle, Cdad. de Guatemala",
+      "telefono": "2238 1946",
+      "sitio_web": "https://hospitaldetraumarodriguezmontoya.com/",
+      "zona": "12",
+      "place_id": "ChIJO3Vb8BuiiYUR6ymZFPhZXrQ",
+      "fecha_recoleccion": "2026-08-13T01:32:52.954Z",
+      "keyword_usado": "ortopedista zona 12, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "hospital",
+      "tipos_google": [
+        "hospital",
+        "health",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
       "nombre": "Hospital El Pilar",
       "especialidad": "Neurología",
       "direccion": "3ra. Calle 10-71, Cdad. de Guatemala",
@@ -3128,6 +3403,47 @@
         "health",
         "point_of_interest",
         "service",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Hospital Nacional De Ortopedia",
+      "especialidad": "Ortopedia",
+      "direccion": "JFPH+W7W, Cdad. de Guatemala",
+      "telefono": "2207 8400",
+      "sitio_web": "",
+      "zona": "12",
+      "place_id": "ChIJAQAAAECiiYUR_QbpQlKl3M4",
+      "fecha_recoleccion": "2026-08-13T01:32:52.954Z",
+      "keyword_usado": "ortopedista zona 12, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "hospital",
+      "tipos_google": [
+        "hospital",
+        "health",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Hospital Privado Centro de Trauma",
+      "especialidad": "Ortopedia",
+      "direccion": "3 Av A 3-33, Escuintla 05001",
+      "telefono": "7888 1372",
+      "sitio_web": "",
+      "zona": "12",
+      "place_id": "ChIJs817LlijiYURNzgev2Cx0Sw",
+      "fecha_recoleccion": "2026-08-13T01:32:52.954Z",
+      "keyword_usado": "ortopedista zona 12, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "hospital",
+      "tipos_google": [
+        "hospital",
+        "doctor",
+        "supplier",
+        "health",
+        "manufacturer",
+        "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -3616,6 +3932,24 @@
       ]
     },
     {
+      "nombre": "OrtoClinical Traumatología y Ortopedia",
+      "especialidad": "Ortopedia",
+      "direccion": "CLINICA 1404, Edificio Torino, 17 Avenida 19‐70, Cdad. de Guatemala 01010",
+      "telefono": "",
+      "sitio_web": "",
+      "zona": "10",
+      "place_id": "ChIJATA1RbCjiYUReEhczyu23tQ",
+      "fecha_recoleccion": "2026-08-13T01:30:45.531Z",
+      "keyword_usado": "ortopedista zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_clinic",
+      "tipos_google": [
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
       "nombre": "Pediacentro Guatemala",
       "especialidad": "Pediatría",
       "direccion": "Calzada Doroteo Guamuch Flores, 2 Calle 30-59, Cdad. de Guatemala 01007",
@@ -3835,6 +4169,60 @@
       "tipo_principal_google": "doctor",
       "tipos_google": [
         "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Traumatología Dr. Neville Forbes Lou",
+      "especialidad": "Ortopedia",
+      "direccion": "3A Calle A 4-00, Cdad. de Guatemala 01010",
+      "telefono": "3599 3878",
+      "sitio_web": "",
+      "zona": "10",
+      "place_id": "ChIJUV7QEjWjiYURp0vLHsyx9H0",
+      "fecha_recoleccion": "2026-08-13T01:30:45.531Z",
+      "keyword_usado": "ortopedista zona 10, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "Traumatologia y Ortopedia Especializada",
+      "especialidad": "Ortopedia",
+      "direccion": "5A Avenida 10, Cdad. de Guatemala",
+      "telefono": "2440 0479",
+      "sitio_web": "",
+      "zona": "12",
+      "place_id": "ChIJ-SyZJtuhiYURwS5o2DLO45w",
+      "fecha_recoleccion": "2026-08-13T01:32:52.954Z",
+      "keyword_usado": "ortopedista zona 12, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "doctor",
+      "tipos_google": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "nombre": "TRAUMATOLOGOS DE GUATEMALA",
+      "especialidad": "Ortopedia",
+      "direccion": "Oficina 14 C Torre Sol, Torre Premier Club, Calzada Roosevelt 22 - 43, Cdad. de Guatemala",
+      "telefono": "2440 3169",
+      "sitio_web": "http://www.traumatologosdeguatemala.com/contactos.php",
+      "zona": "12",
+      "place_id": "ChIJIZ63TaWhiYURp9Ceq_Xc9Uc",
+      "fecha_recoleccion": "2026-08-13T01:32:52.954Z",
+      "keyword_usado": "ortopedista zona 12, Ciudad de Guatemala, Guatemala",
+      "tipo_principal_google": "medical_clinic",
+      "tipos_google": [
+        "medical_clinic",
         "health",
         "point_of_interest",
         "establishment"
