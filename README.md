@@ -53,6 +53,11 @@ npm --prefix functions run seed:emulator
 
 ## Operación
 
+Cuando una búsqueda del frontend no encuentra resultados y contiene tanto
+especialidad como zona, la UI solicita una recolección al backend y vuelve a
+consultar el directorio automáticamente. Cada combinación se intenta una sola
+vez por sesión de la página para evitar solicitudes repetidas a Places.
+
 ```bash
 # Consultar
 curl "https://us-central1-ria-proyecto1.cloudfunctions.net/api/directorio?page=1&pageSize=10&especialidad=Cardiología&zona=10"
