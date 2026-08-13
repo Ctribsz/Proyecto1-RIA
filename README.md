@@ -53,10 +53,10 @@ npm --prefix functions run seed:emulator
 
 ## Operación
 
-Cuando una búsqueda del frontend no encuentra resultados y contiene tanto
-especialidad como zona, la UI solicita una recolección al backend y vuelve a
-consultar el directorio automáticamente. Cada combinación se intenta una sola
-vez por sesión de la página para evitar solicitudes repetidas a Places.
+El frontend consulta únicamente los datos ya almacenados mediante
+`GET /directorio`. La recolección es una operación administrativa separada:
+`POST /recolectar` no se ejecuta desde la interfaz pública porque muta
+Firestore y puede consumir cuota de Places.
 
 ```bash
 # Consultar

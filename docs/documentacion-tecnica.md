@@ -19,7 +19,8 @@ Suite. El despliegue está en `ria-proyecto1`:
 ```mermaid
 flowchart LR
     U[Usuario autorizado] --> H[Firebase Hosting: UI]
-    U -->|HTTPS + CORS| A[Cloud Function API]
+    H -->|GET /directorio| A[Cloud Function API]
+    O[Operador autorizado] -->|POST /recolectar| A
     A --> W{IP whitelist}
     W -->|GET /directorio| F[(Firestore)]
     W -->|POST /recolectar| V[Direct VPC egress]
@@ -79,7 +80,8 @@ Function tiene acceso.
 Realiza exactamente una Text Search con máscara explícita y `pageSize: 20`; no
 sigue páginas adicionales. Usa `place_id` como ID de documento, por lo que una
 búsqueda repetida actualiza en lugar de duplicar. También elimina resultados
-obsoletos de la misma keyword.
+obsoletos de la misma keyword. Es una operación administrativa y no se invoca
+desde el frontend público.
 
 `GET /directorio` acepta `page`, `pageSize` (máximo 50), `especialidad` y
 `zona`. Normaliza los filtros, ordena por nombre y devuelve datos, página,
