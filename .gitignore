@@ -1,6 +1,10 @@
 # Dependencias
 node_modules/
 
+# Archivos generados por macOS
+.DS_Store
+**/.DS_Store
+
 # Firebase
 .firebase/
 firebase-debug.log
